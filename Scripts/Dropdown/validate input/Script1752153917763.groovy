@@ -19,11 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Google/textarea__q'), 0)
+WebUI.navigateToUrl('https://enterprise.penta-b.net/products')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Google/svg'), 0)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Product Selector/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.click(findTestObject('Object Repository/Page_Product Selector/button_Next'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_-  Google/span_'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Home/a_Sign In'), 'Sign In')
+
+WebUI.click(findTestObject('Object Repository/Page_Home/a_Sign In'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Sign In/span_Sign In'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign In'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Sign In/span_This input is required'))
 
