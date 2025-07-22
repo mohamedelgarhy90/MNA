@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f13-Check that cancelling the editing project name will not affect on Bee Flow application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e84b4b35-68c6-4d25-a0b8-95bd8d5d12ed</testCaseGuid>
+</TestCaseEntity>

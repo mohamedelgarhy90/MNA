@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-Check that user can delete a project successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c75b612-ffe4-42b6-b84f-b4f26d1afe6a</testCaseGuid>
+</TestCaseEntity>

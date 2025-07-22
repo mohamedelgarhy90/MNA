@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Projects Management</name>
+   <tag></tag>
+   <elementGuidId>e35402c7-dcfa-4901-bb22-4ce83e16684d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.MobileNav_nav-link__cOsQ6.MobileNav_active__PhFfL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Projects Management&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab50d93d-9575-43a3-b0b0-524a7a03719e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>c97024c2-e705-4ad5-bf8e-c6dbe970e108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link MobileNav_nav-link__cOsQ6 MobileNav_active__PhFfL</value>
+      <webElementGuid>17fef383-ecfb-49d9-bb6a-e1f409beba8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/penta-app-admin-entry-point/BeeFlow/ProjectManagement</value>
+      <webElementGuid>d811f784-fd8f-4613-8dd8-5ef448139db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Projects Management</value>
+      <webElementGuid>22e74967-a8f9-4059-bc52-810a0bb7904e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar&quot;)/div[1]/div[@id=&quot;navbarSupportedContent&quot;]/div[@class=&quot;container-fluid MobileNav_nav-container__815-D&quot;]/ul[@class=&quot;navbar-nav MobileNav_navbar-nav__dQ3SV&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link MobileNav_nav-link__cOsQ6 MobileNav_active__PhFfL&quot;]</value>
+      <webElementGuid>f63eee2e-0a19-42a8-a566-1d4843c2ab24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[2]/a</value>
+      <webElementGuid>a94e0f73-d873-41df-9703-911c2dd7d245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Projects Management')]</value>
+      <webElementGuid>89015222-ab9a-406c-8450-8387dff8d99c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>f85195c8-cfb9-4da8-8acc-0ac624c0abea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::a[3]</value>
+      <webElementGuid>4614571d-bf20-4459-bd08-1ad916c47b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Structure'])[1]/preceding::a[1]</value>
+      <webElementGuid>5e301989-543e-4e75-81e8-476cbe8902fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Features Catalogue'])[1]/preceding::a[2]</value>
+      <webElementGuid>5e79f479-fe61-40d7-bd99-c59d9475e5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Projects Management']/parent::*</value>
+      <webElementGuid>04b0ae1b-7fcb-40ed-80be-a5871bc326d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/penta-app-admin-entry-point/BeeFlow/ProjectManagement')]</value>
+      <webElementGuid>c7588bd5-3bc1-448b-9dc1-06e2cdc3fa03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>5beefd67-ee77-4d11-a87c-fe96f45847cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/penta-app-admin-entry-point/BeeFlow/ProjectManagement' and (text() = 'Projects Management' or . = 'Projects Management')]</value>
+      <webElementGuid>d7c9dbec-2014-4a62-ac28-965ca25bc052</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

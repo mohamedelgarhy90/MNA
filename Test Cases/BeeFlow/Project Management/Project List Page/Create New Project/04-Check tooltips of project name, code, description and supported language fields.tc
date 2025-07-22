@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04-Check tooltips of project name, code, description and supported language fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99c85785-9a8a-485f-8954-4b2e02027a74</testCaseGuid>
+</TestCaseEntity>

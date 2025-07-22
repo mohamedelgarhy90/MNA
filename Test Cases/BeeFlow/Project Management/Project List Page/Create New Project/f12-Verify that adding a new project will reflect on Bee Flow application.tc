@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f12-Verify that adding a new project will reflect on Bee Flow application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>120d8286-d1c9-465b-94c7-147422d58cdd</testCaseGuid>
+</TestCaseEntity>

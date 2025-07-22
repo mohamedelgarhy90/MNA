@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02-Check that project name, code, description, and support languages fields are required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2389815-76c7-4b75-99a9-b0d6e935c2c7</testCaseGuid>
+</TestCaseEntity>

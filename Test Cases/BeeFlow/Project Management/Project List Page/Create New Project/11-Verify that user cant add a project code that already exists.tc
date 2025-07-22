@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11-Verify that user cant add a project code that already exists</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eca7683b-c60e-42e1-9933-edf54822d380</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10-Verify that user can add or remove one or more of supported languages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78619b70-3080-4b6b-865d-a6d42dec649a</testCaseGuid>
+</TestCaseEntity>

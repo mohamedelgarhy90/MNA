@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f06-Check that if user entered any data in pop up and tried to cancel a confirmation will show</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e0923c4-7ad4-4c84-8a8b-b977a178fb2f</testCaseGuid>
+</TestCaseEntity>

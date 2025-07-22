@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f12.1-Check that editing project name will affect on Bee Flow application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6acf8db-9f83-49f3-8a88-a5c922c91148</testCaseGuid>
+</TestCaseEntity>

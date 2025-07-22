@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f08-Check that the last project added displayed at first in the project management page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fd5fa86-659a-4f5a-96d4-1105fbcc4518</testCaseGuid>
+</TestCaseEntity>

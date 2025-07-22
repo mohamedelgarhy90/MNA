@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05-Check that project creation is canceled when user click on cancel or close</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>915cf525-f543-4af0-8037-8f5722eeb451</testCaseGuid>
+</TestCaseEntity>

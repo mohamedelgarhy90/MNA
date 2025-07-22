@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f14- Check that the associated organizations can access the project in the Bee Flow Application</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9e7015b-5960-42e9-8404-3fe174b54c92</testCaseGuid>
+</TestCaseEntity>

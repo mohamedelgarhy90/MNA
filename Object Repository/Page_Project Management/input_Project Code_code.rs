@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Project Code_code</name>
+   <tag></tag>
+   <elementGuidId>28afd6c8-dad3-4b2c-a0b1-e782e549fbc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;code&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='code']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter your project code&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3ce951bc-0d9e-4104-ab64-f5e78e6158db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TextFieldInput-module__text-input--CNK_g</value>
+      <webElementGuid>4b2c1658-058d-4d35-8401-7c7c5bd83ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>code</value>
+      <webElementGuid>b8a812bc-b92a-49e4-8523-50f2e0d15d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your project code</value>
+      <webElementGuid>be4057f0-34cd-431a-91fd-4d8e557d4879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content ModalComponents-module__modal--mLI6O formModal_modal__N7SCR&quot;]/div[@class=&quot;modal-body ModalComponents-module__modal-body--VlAcf formModal_modal-body__BsWwk&quot;]/div[1]/div[@class=&quot;BaseInput-module__input-container--u08tI sharedTextFieldInput_text-field-input__vsuL7&quot;]/div[@class=&quot;TextFieldInput-module__input-icon-container--VZngg&quot;]/div[@class=&quot;TextFieldInput-module__input-container--cMrhK undefined&quot;]/input[@class=&quot;TextFieldInput-module__text-input--CNK_g&quot;]</value>
+      <webElementGuid>0bd99dbf-3198-4a4f-b555-efd9bec8d67c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='code']</value>
+      <webElementGuid>675052fc-c5c2-47de-8262-2450e4dcb88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/input</value>
+      <webElementGuid>1a8c364d-9168-4f30-8c6c-c8e40b108a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'code' and @placeholder = 'Enter your project code']</value>
+      <webElementGuid>a3d13c1e-6cdb-44cc-982e-028659dfff52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

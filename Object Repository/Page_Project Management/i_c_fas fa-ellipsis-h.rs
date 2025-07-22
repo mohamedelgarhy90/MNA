@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_c_fas fa-ellipsis-h</name>
+   <tag></tag>
+   <elementGuidId>75e3b1a4-e48e-47d9-8ccd-522116f960a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-ellipsis-h</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div[2]/button/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6f1087ee-96b5-4d77-9c64-d098fa5e6420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-h</value>
+      <webElementGuid>34bd5ef5-d0df-42f0-8df9-0e9c48e83403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;projectManagement_project-catalogue-container__1tNol&quot;]/div[@class=&quot;sharedCatalogueBase_shared-catalogue-base-container__WV0S1&quot;]/div[@class=&quot;d-flex gap-3 flex-wrap&quot;]/div[@class=&quot;LocalGridCatalog-module__local-card--_Tkjr projectManagement_project-catalogue-card__TK1m3&quot;]/div[@class=&quot;GridCard-module__card--K7_7f projectCard_project-card__1SBUw d-flex p-3 flex-column&quot;]/div[@class=&quot;d-flex gap-3 flex-column flex-grow-1&quot;]/div[@class=&quot;d-flex flex-column gap-2&quot;]/div[@class=&quot;d-flex gap-2 justify-content-between&quot;]/div[@class=&quot;sharedCardTitle_shared-card-title-container__y7FDe&quot;]/div[@class=&quot;menuButton_menu-button__q1z39 CollapsibleDropdown-module__collapsible-dropdown--PGCkr dropdown&quot;]/button[@class=&quot;dropdown-toggle btn btn-none&quot;]/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;]</value>
+      <webElementGuid>24644279-d1c2-4021-8253-c4f373c7c82f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div[2]/div/div/div[2]/button/span/i</value>
+      <webElementGuid>5ad7ae3a-15a8-4076-9819-b103f5581924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>13e5cccb-32cc-4e92-8e57-de34600012ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

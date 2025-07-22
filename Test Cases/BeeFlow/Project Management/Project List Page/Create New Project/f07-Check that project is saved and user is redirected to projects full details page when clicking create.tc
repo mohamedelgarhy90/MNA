@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>f07-Check that project is saved and user is redirected to projects full details page when clicking create</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6544721b-42c0-4ff2-a3da-2fb44b362306</testCaseGuid>
+</TestCaseEntity>

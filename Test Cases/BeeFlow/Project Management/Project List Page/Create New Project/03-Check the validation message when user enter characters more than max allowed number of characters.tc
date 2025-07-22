@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03-Check the validation message when user enter characters more than max allowed number of characters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45c7eb03-f1f8-4d34-bae3-f67f255dc349</testCaseGuid>
+</TestCaseEntity>
