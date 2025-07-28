@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>52c9095d-bc6d-4d6c-b9e3-d9787ec9ceec</webElementGuid>
+      <webElementGuid>0b77b7a3-8264-4338-bf7d-a9ac4bb054ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mna-btn-md Header_login-btn__pFNQM</value>
-      <webElementGuid>65a0e3b7-d86f-4b3e-881d-648a03a57e7b</webElementGuid>
+      <webElementGuid>b8e15591-9953-4d41-b5e2-f521c43263c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/penta-app-admin-entry-point/BeeFlow/signin/org?redirectUrl=%2F</value>
-      <webElementGuid>0538d971-7e3f-4fd3-b2ce-cf5568137f8d</webElementGuid>
+      <webElementGuid>ea92c888-aa9e-4c67-ac89-defb2b8d5c78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>59cace3a-37b9-4d80-acfb-9470b30d3a3f</webElementGuid>
+      <webElementGuid>8121bca7-f944-4da7-9d9d-2e4b28b52f0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;common-header__button-login&quot;)/a[@class=&quot;mna-btn-md Header_login-btn__pFNQM&quot;]</value>
-      <webElementGuid>a1494cda-a523-4975-95bb-32aeb4be006d</webElementGuid>
+      <webElementGuid>48c9d543-7ba7-49a5-b66f-0e37a7cd047d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='common-header__button-login']/a</value>
-      <webElementGuid>e626becc-d03e-4ba6-b623-d61cc70cf9d1</webElementGuid>
+      <webElementGuid>580f33d0-0686-4478-89bc-53ddeea97586</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>56d177f1-73ba-42f6-80b3-7dacd25beeeb</webElementGuid>
+      <webElementGuid>55c038fd-395f-4645-b7da-fcf26162da30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::a[1]</value>
-      <webElementGuid>ab02f860-83ca-463b-8d6b-b77af91b3a21</webElementGuid>
+      <webElementGuid>36700aba-74fd-4ee0-943b-b08d97b67d81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MnA is not optimized for Mobile use and best fit for Desktop view only'])[1]/following::a[1]</value>
-      <webElementGuid>ae4a436b-b9f5-4c0b-ab85-0c0f3784e8b2</webElementGuid>
+      <webElementGuid>d4c41feb-b04e-436f-96f1-e5a7631348cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[2]</value>
-      <webElementGuid>0d633637-c485-4988-b897-1e43274512b1</webElementGuid>
+      <webElementGuid>4c2971ba-3090-44ab-9b85-1dbbf7fa4d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Features Catalogue'])[1]/preceding::a[3]</value>
-      <webElementGuid>310e6754-cadb-4191-a92b-f6e78485621a</webElementGuid>
+      <webElementGuid>83fdcff5-c699-408f-9172-2ed7736a42c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>8449de7e-beb0-47ad-ae1d-88d6cbc23829</webElementGuid>
+      <webElementGuid>82cb3813-71e1-4272-bab0-a9a9b2470f87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/penta-app-admin-entry-point/BeeFlow/signin/org?redirectUrl=%2F')]</value>
-      <webElementGuid>6e912e06-a008-4cf6-ad7d-5bfc2192b4ba</webElementGuid>
+      <webElementGuid>f4fe77f5-4ec8-4231-b63a-477109fde3c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>65c22e2c-fbce-4532-90ed-9cc3c5e7d0ac</webElementGuid>
+      <webElementGuid>d0fbc86d-38da-4c6f-990c-6dff585c91b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/penta-app-admin-entry-point/BeeFlow/signin/org?redirectUrl=%2F' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>02e3433a-49e3-4e12-a2e7-294384f66c56</webElementGuid>
+      <webElementGuid>3428d2d2-c634-4d5c-bdb8-da6994559849</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

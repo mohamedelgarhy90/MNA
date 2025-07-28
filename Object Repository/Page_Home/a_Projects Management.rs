@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c90e91ef-cf80-4c70-96e3-6741fa07936f</webElementGuid>
+      <webElementGuid>87934b25-3d7e-4643-a476-40a9e87eac0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link MobileNav_nav-link__cOsQ6</value>
-      <webElementGuid>97a7d863-bdbb-4b82-865f-d380dc3d89c6</webElementGuid>
+      <webElementGuid>3b471484-8643-499f-a8f7-b93493cc9481</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/penta-app-admin-entry-point/BeeFlow/ProjectManagement</value>
-      <webElementGuid>0bbb2d99-d894-44ca-a926-60186b96ec83</webElementGuid>
+      <webElementGuid>2b7fd849-f893-4fcb-b003-3a1509ed50c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Projects Management</value>
-      <webElementGuid>6acaef1f-45d4-41bb-8be2-6def9af45ef0</webElementGuid>
+      <webElementGuid>6229a95d-07d4-4072-a2e0-806b3ed1536d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbar&quot;)/div[1]/div[@id=&quot;navbarSupportedContent&quot;]/div[@class=&quot;container-fluid MobileNav_nav-container__815-D&quot;]/ul[@class=&quot;navbar-nav MobileNav_navbar-nav__dQ3SV&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link MobileNav_nav-link__cOsQ6&quot;]</value>
-      <webElementGuid>15ebb55e-1d50-40cc-a31a-a49501a081c9</webElementGuid>
+      <webElementGuid>8734e130-8489-4fd4-a669-59594a8255cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[2]/a</value>
-      <webElementGuid>90f0278e-96c1-48ac-850e-e6eed79b3854</webElementGuid>
+      <webElementGuid>86945878-4878-410b-8416-e35b4f9b9de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Projects Management')]</value>
-      <webElementGuid>ffe94877-6d4f-4baf-a8ff-ec4549ac4f9f</webElementGuid>
+      <webElementGuid>1a472219-2d29-412c-bc84-b2cbd1f69d01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/following::a[1]</value>
-      <webElementGuid>11c9e80c-4b9f-47da-b15b-f48958e6012d</webElementGuid>
+      <webElementGuid>872733fc-8cd0-4ebf-9aa6-fc7383517450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::a[3]</value>
-      <webElementGuid>85917379-a83a-423e-91e2-bed42a5743cb</webElementGuid>
+      <webElementGuid>fe8c14d9-7ee0-4fd5-8019-088d14736e40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Structure'])[1]/preceding::a[1]</value>
-      <webElementGuid>0dccd410-e54e-4b4f-a6c4-c8c35eaae83c</webElementGuid>
+      <webElementGuid>824ab20e-78b7-4141-9fc0-388c3d159a2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Features Catalogue'])[1]/preceding::a[2]</value>
-      <webElementGuid>e832b339-a112-4bb1-941c-5a33249e3ef3</webElementGuid>
+      <webElementGuid>5bc95ae6-1436-45bc-a34b-a58691b2978b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Projects Management']/parent::*</value>
-      <webElementGuid>6299474c-5034-4a7d-b892-33e9c83b8daf</webElementGuid>
+      <webElementGuid>e9e8cf02-a9b0-4112-ba80-6ce39136c883</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/penta-app-admin-entry-point/BeeFlow/ProjectManagement')]</value>
-      <webElementGuid>81e0e801-bbb8-417b-8f5a-63f1672082ea</webElementGuid>
+      <webElementGuid>e0c547bc-d1d9-4d91-a0f0-ae266a4100f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>ab9eed53-69c7-4ddd-96be-883a2fd09bef</webElementGuid>
+      <webElementGuid>04df272d-79a9-4e33-a31e-724b3149de77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/penta-app-admin-entry-point/BeeFlow/ProjectManagement' and (text() = 'Projects Management' or . = 'Projects Management')]</value>
-      <webElementGuid>34075f93-7e99-4a99-b4ae-03b4b8f0e85a</webElementGuid>
+      <webElementGuid>49a2386c-3bbd-4a23-b2e8-cc608a357b4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
