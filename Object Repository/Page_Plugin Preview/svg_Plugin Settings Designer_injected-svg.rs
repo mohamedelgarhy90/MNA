@@ -6,12 +6,17 @@
    <elementGuidId>0fdddcfc-1aef-445e-8178-fb1a20baec2c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugin Settings Designer'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
+            CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
+            CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_container-header__ROXux&quot;]/div[@class=&quot;d-flex gap-3 align-items-center&quot;]/div[1]/div[@class=&quot;undefined EditIcon_icon__T7GOt&quot;]/div[1]/svg[@class=&quot;injected-svg&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>dcccbca4-43d2-4ce8-a1cc-b9320dfeed8d</webElementGuid>
+      <webElementGuid>2f15188f-d6ba-4d05-b234-c464e0b34001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +42,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>a5653a0e-8dda-4d0f-b8ce-a0b4c686a380</webElementGuid>
+      <webElementGuid>3c4892f7-9db2-4df6-aca2-0283d5145022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +50,7 @@
       <name>width</name>
       <type>Main</type>
       <value>21</value>
-      <webElementGuid>19577e8a-152b-4f4a-9efd-cb5f9bc502f0</webElementGuid>
+      <webElementGuid>e813e2de-5ce6-42b4-bde8-589c97cae035</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +58,7 @@
       <name>height</name>
       <type>Main</type>
       <value>22</value>
-      <webElementGuid>71940a8a-7111-4724-acaa-09c7a602a982</webElementGuid>
+      <webElementGuid>a471f093-6992-46b1-a4d0-430aaec119b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +66,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 21 22</value>
-      <webElementGuid>b5916347-97be-48f9-b2a7-9a5ecf5b9836</webElementGuid>
+      <webElementGuid>59f6613d-a544-4ad9-848c-af8ff0ffba7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +74,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>a9ca372d-058b-4989-9643-3b88c768ef5b</webElementGuid>
+      <webElementGuid>c92c1832-9e94-45c5-b008-0e7157482e51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>class</name>
       <type>Main</type>
       <value>injected-svg</value>
-      <webElementGuid>6eb9b5fa-4c28-4a05-ad17-5d19685eccf3</webElementGuid>
+      <webElementGuid>d8502646-704b-4bb9-8887-b213b1d3faa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +90,7 @@
       <name>data-src</name>
       <type>Main</type>
       <value>/penta-app-admin-entry-point-fb/static/media/ModifyIcon.472e435e07da992349544c9928b4a68f.svg</value>
-      <webElementGuid>238f38c4-064e-4ed0-81ba-cb3aca087a29</webElementGuid>
+      <webElementGuid>97a562be-9e4f-4949-b17c-5a948d39528b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +98,7 @@
       <name>xmlns:xlink</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xlink</value>
-      <webElementGuid>57e1f7fa-3a11-414d-9415-b8c14e62d554</webElementGuid>
+      <webElementGuid>9b26c558-9681-4d54-8600-df82a5af1d01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +106,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>bd362c40-4a8f-4c41-a20c-a1d2d5bb3797</webElementGuid>
+      <webElementGuid>cb061eff-2322-42aa-932c-d09b5c93d429</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -111,7 +116,7 @@
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
             CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
             CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_container-header__ROXux&quot;]/div[@class=&quot;d-flex gap-3 align-items-center&quot;]/div[1]/div[@class=&quot;undefined EditIcon_icon__T7GOt&quot;]/div[1]/svg[@class=&quot;injected-svg&quot;]</value>
-      <webElementGuid>86352c6b-8aa1-4b5c-b669-f322285adf51</webElementGuid>
+      <webElementGuid>fa87f085-64de-446b-9786-e3c026e82098</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -119,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugin Settings Designer'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>2345b9bd-a939-48a9-abd1-7f1487c3db50</webElementGuid>
+      <webElementGuid>40e14f4b-d91e-4fa9-9237-27208e209bc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='lrn'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>9b32ff9b-af0d-456c-af1c-8f2132ed69f5</webElementGuid>
+      <webElementGuid>70b1ca51-00c8-4840-907a-be41d1fd3aa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data settings'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>22a06d88-0b17-4c54-8cbc-46dc1264d33e</webElementGuid>
+      <webElementGuid>249ed977-6ca9-4eff-81ca-defad35fd649</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +148,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Behavior settings'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>a42a8cd9-5255-4b57-b845-cb5d633dedc3</webElementGuid>
+      <webElementGuid>57debadb-5b8d-4a46-82f6-3ea4ab555e3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

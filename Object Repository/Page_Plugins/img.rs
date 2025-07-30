@@ -6,12 +6,12 @@
    <elementGuidId>6ec76d02-c709-4b90-b866-f4a8e54d44e5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.CardImage_card-image__VQJYd > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>internal:role=link[name=&quot;islam fb des Web App ar en Created By: red Not Published&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e962159a-2173-4062-b227-f9dc946372ee</webElementGuid>
+      <webElementGuid>6f18e90c-87a4-4702-97ca-a04e41aa156f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/penta-service-storage/downloadFile/1753787347074/Punchin_Pikachu.png?orgId=red&amp;category=Plugins</value>
-      <webElementGuid>eef15956-d8ce-4d35-a89b-a79add0f4a61</webElementGuid>
+      <webElementGuid>bc21e972-8e17-47f9-b8d1-a896fe6c31c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container CatalogPage_page__9FiW- undefined&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;d-flex gap-3 flex-wrap&quot;]/div[@class=&quot;PublicCatalogBase_global-card__aqymy&quot;]/div[@class=&quot;GridCard_card__+UFjt  d-flex p-3 flex-column&quot;]/a[@class=&quot;GridCard_card-link__2bLqw d-flex gap-3 flex-column flex-grow-1&quot;]/div[@class=&quot;GridCard_card-image__vvabD d-flex flex-column gap-2&quot;]/div[@class=&quot;GridCard_img-container__v2aZ7&quot;]/div[@class=&quot;CardImage_card-image__VQJYd&quot;]/img[1]</value>
-      <webElementGuid>2fdd1adf-5a77-4523-952a-c84e82c70a70</webElementGuid>
+      <webElementGuid>bcd8c0eb-379f-4cda-a847-03f54e33301b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
-      <webElementGuid>a3dd2886-4c44-4a44-960b-0eb3650a6076</webElementGuid>
+      <webElementGuid>98db9bb4-8e30-4e50-8cc7-f2c3a57c888c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/img</value>
-      <webElementGuid>505ec3d7-5659-4ad4-bc6b-0cf0207e2f90</webElementGuid>
+      <webElementGuid>19bf480e-d068-44a8-80ea-3a6d684e577d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/penta-service-storage/downloadFile/1753787347074/Punchin_Pikachu.png?orgId=red&amp;category=Plugins']</value>
-      <webElementGuid>6e92c018-5266-4249-a7e4-4881db4c925c</webElementGuid>
+      <webElementGuid>f20f11c3-4ecb-44f2-8fe1-3759c2f9abab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

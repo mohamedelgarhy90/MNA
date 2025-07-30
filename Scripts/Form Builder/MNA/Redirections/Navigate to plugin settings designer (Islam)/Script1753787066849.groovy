@@ -25,9 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_Plugins/img'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
+not_run: WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/div_BackPublish'))
 
