@@ -21,14 +21,17 @@ WebUI.callTestCase(findTestCase('Form Builder/MNA/Redirections/Login'), [:], Fai
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Page_Plugin Preview/edit month'))
+
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Label_label'), 'osama')
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Confirm'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/p_9250'))
+WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), '')
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/label_more than fifty characterssssssssssss_16b684'), 
-    'osama')
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Plugin Preview/div_Mna key is required'))
+
+WebUI.closeBrowser()
 
