@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Mna Key is dimmed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>770f6047-e5a6-43c9-9c49-45420f2c33d6</testCaseGuid>
+</TestCaseEntity>

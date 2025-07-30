@@ -17,18 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
+WebUI.verifyElementNotClickable(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Label_label'), 'osama')
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/p_9250'))
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Confirm'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Data settingsBehavior settingsConfigura_ac5d1f'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/label_more than fifty characterssssssssssss_16b684'), 
-    'osama')
+WebUI.setText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'), '')
+
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Class Name'))
+
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Mna Key_penta-editable-textbox-button'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/path'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Mna key is required'), 0)
 
