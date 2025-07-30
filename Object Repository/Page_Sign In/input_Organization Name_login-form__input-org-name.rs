@@ -6,12 +6,12 @@
    <elementGuidId>3758a5d3-623a-4747-a24e-a4340297e53e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#login-form__input-org-name</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='login-form__input-org-name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login-form__input-org-name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>277fcaa7-cbd2-4dc2-abef-d094417c7028</webElementGuid>
+      <webElementGuid>07fdae10-98f0-4f16-960a-d7329a140026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login-form__input-org-name</value>
-      <webElementGuid>f6988cf1-f79f-4af0-aa47-5d2264f5b1d2</webElementGuid>
+      <webElementGuid>0b0c2c32-acd3-4d03-9169-9f59c33ab763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4d1e07c8-725b-491c-a532-96b5ef0d515f</webElementGuid>
+      <webElementGuid>b07c123f-0340-417d-80c3-370a811fe8ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>TextFieldInput_text-input__N7FVO RegisterOrg_register-input__of6X9</value>
-      <webElementGuid>a0745853-eb8c-42f6-8ff1-b01f4853d844</webElementGuid>
+      <webElementGuid>cc64fe92-9424-491b-be36-d3f05afc98fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Organization Name</value>
-      <webElementGuid>e533d476-82ae-4afe-8dd8-596f56e0eea7</webElementGuid>
+      <webElementGuid>f7305ee4-efe2-4411-bbdf-ee7046f21eab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>95d6e487-af1c-4076-91db-f42a3ec2f410</webElementGuid>
+      <webElementGuid>74654ee8-5613-46f0-88c5-c16c389e1e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>7a6f3857-13a3-4892-93a0-04fc9af402b1</webElementGuid>
+      <webElementGuid>f02fbffe-35af-45ce-ac87-e3fbe245057c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-form__input-org-name&quot;)</value>
-      <webElementGuid>daf31b78-d0e3-41af-999e-6001df80c934</webElementGuid>
+      <webElementGuid>2a51c95c-7f54-4bc0-b15f-9be470ee1846</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='login-form__input-org-name']</value>
-      <webElementGuid>48967b23-7f56-443f-a88d-05618af99d6a</webElementGuid>
+      <webElementGuid>3e8264f4-e654-47d1-a61a-2408563676e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div/input</value>
-      <webElementGuid>7789fdfa-64e7-44b0-9eaf-5c2b93973f1c</webElementGuid>
+      <webElementGuid>d198b35e-9a5a-412c-bdea-08d1898cb48f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>6ae294b7-ccd6-4721-b403-2434c199ba16</webElementGuid>
+      <webElementGuid>610439c1-599b-4f85-81f4-c061a0af8420</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'login-form__input-org-name' and @type = 'text' and @placeholder = 'Organization Name']</value>
-      <webElementGuid>5a9b8098-cf53-4324-8f35-a2bf1ecb52e5</webElementGuid>
+      <webElementGuid>4a17d1b6-80a2-40a4-a5a6-41401696411a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
