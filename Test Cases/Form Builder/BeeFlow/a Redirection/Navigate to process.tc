@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to process management</description>
+   <name>Navigate to process</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b31969b-e4c5-4a36-b742-1fc182a057fb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit</name>
+   <tag></tag>
+   <elementGuidId>5c137c8e-047c-4fd0-96c2-8b7e2493a7ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.penta-button.penta-main-button.save.penta-main-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary >> internal:role=button[name=&quot;Submit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01010c54-806b-4565-afb0-dfaa1e95e29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>penta-button penta-main-button   save penta-main-button</value>
+      <webElementGuid>0aa4cc29-03fa-46c5-8f16-d5f5cb1d0c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>81006332-1b0a-47db-98ef-47562b398865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/main[@class=&quot;layout_layout-container__SwD1Y&quot;]/div[@class=&quot;layout_layout-children-container__mgIlz&quot;]/div[1]/div[@class=&quot;formBuilder_task-form-designer-container__8Of5A&quot;]/div[@class=&quot;sharedCollapsibleContainer_collapsible-container__rQGxR
+            CollapsibleContainer-module__collapsibleDivContainer--BLS45
+            CollapsibleContainer-module__collapsibleDivContainerDefault--Pf8iZ&quot;]/div[@class=&quot;CollapsibleContainer-module__collapsibleActive--_jdwW sharedCollapsibleContainer_collapsible-active__xNKbM&quot;]/div[@class=&quot;sharedCollapsibleContainer_container__U9ZIQ&quot;]/section[@class=&quot;undefined layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;penta-buttons-container&quot;]/button[@class=&quot;penta-button penta-main-button   save penta-main-button&quot;]</value>
+      <webElementGuid>30eebbce-858b-4ea6-a938-1dcc77c52a6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div[2]/button[2]</value>
+      <webElementGuid>b59a9956-5ebe-46d0-a545-c84ee49a1691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>03d00825-a3b1-4f11-8be2-d7df5cb4759d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[4]/following::button[2]</value>
+      <webElementGuid>db939ca4-68e3-4039-bf7f-a371e05930a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Button'])[1]/preceding::button[1]</value>
+      <webElementGuid>c8d07ea7-e244-48cc-8687-c9d036771b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d8c9920-bb3b-4be0-9dab-5d3582ed42b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>f694cf97-61fe-4881-94dd-9eda5432d3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>9669b542-25d0-4882-8dec-5d8ec02998e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>30a4dd67-094b-45fe-bc19-56a57b82710b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2- Check mna key unique</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fec65108-bc6d-4550-aca7-bb1e827b3796</testCaseGuid>
+</TestCaseEntity>

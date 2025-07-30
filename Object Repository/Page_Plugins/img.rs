@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>6ec76d02-c709-4b90-b866-f4a8e54d44e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.CardImage_card-image__VQJYd > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;islam fb des Web App ar en Created By: red Not Published&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e962159a-2173-4062-b227-f9dc946372ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/penta-service-storage/downloadFile/1753787347074/Punchin_Pikachu.png?orgId=red&amp;category=Plugins</value>
+      <webElementGuid>eef15956-d8ce-4d35-a89b-a79add0f4a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container CatalogPage_page__9FiW- undefined&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;d-flex gap-3 flex-wrap&quot;]/div[@class=&quot;PublicCatalogBase_global-card__aqymy&quot;]/div[@class=&quot;GridCard_card__+UFjt  d-flex p-3 flex-column&quot;]/a[@class=&quot;GridCard_card-link__2bLqw d-flex gap-3 flex-column flex-grow-1&quot;]/div[@class=&quot;GridCard_card-image__vvabD d-flex flex-column gap-2&quot;]/div[@class=&quot;GridCard_img-container__v2aZ7&quot;]/div[@class=&quot;CardImage_card-image__VQJYd&quot;]/img[1]</value>
+      <webElementGuid>2fdd1adf-5a77-4523-952a-c84e82c70a70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
+      <webElementGuid>a3dd2886-4c44-4a44-960b-0eb3650a6076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/img</value>
+      <webElementGuid>505ec3d7-5659-4ad4-bc6b-0cf0207e2f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/penta-service-storage/downloadFile/1753787347074/Punchin_Pikachu.png?orgId=red&amp;category=Plugins']</value>
+      <webElementGuid>6e92c018-5266-4249-a7e4-4881db4c925c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

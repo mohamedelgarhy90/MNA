@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>9dc954ae-503c-45b1-82e4-f384a6eeffbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mna-btn-primary.mna-btn-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Save&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e566541e-b2ff-4676-b0f8-db2d2ec1f0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mna-btn-primary mna-btn-lg</value>
+      <webElementGuid>f6d353b3-f226-4ac1-9f5e-f50a5051e192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>7e5311e7-cc89-4c63-9878-4a22f54c547b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/main[@class=&quot;layout_layout-container__SwD1Y&quot;]/div[@class=&quot;layout_layout-children-container__mgIlz&quot;]/div[1]/div[@class=&quot;formBuilder_task-form-designer-container__8Of5A&quot;]/div[@class=&quot;sharedCollapsibleContainer_collapsible-container__rQGxR
+            CollapsibleContainer-module__collapsibleDivContainer--BLS45
+            CollapsibleContainer-module__collapsibleDivContainerDefault--Pf8iZ&quot;]/div[@class=&quot;CollapsibleContainer-module__collapsibleActive--_jdwW sharedCollapsibleContainer_collapsible-active__xNKbM&quot;]/div[@class=&quot;sharedCollapsibleContainer_container__U9ZIQ&quot;]/div[@class=&quot;actionFormButtons_action-btn-container__n08G3 sharedFormDesigner_form-designer-action-btns__TxJx6&quot;]/button[@class=&quot;mna-btn-primary mna-btn-lg&quot;]</value>
+      <webElementGuid>5320c7f1-40da-4900-acb3-42e2ea6b074e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>45194bd1-eda4-4674-8d96-18dc5d5db205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset changes'])[1]/following::button[1]</value>
+      <webElementGuid>a5fe654d-2d76-46ab-a9ba-881d06474906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[2]/following::button[2]</value>
+      <webElementGuid>f5e5213e-27b3-41b0-a879-3da921fcb13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Publish'])[1]/preceding::button[1]</value>
+      <webElementGuid>b14e805b-c58f-4a8e-a586-18839700e016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[2]</value>
+      <webElementGuid>fdb7af8c-e862-48e9-9091-8d79b5e8352c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>61e2ba7d-22f7-4ce1-ba15-5a9635349f29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

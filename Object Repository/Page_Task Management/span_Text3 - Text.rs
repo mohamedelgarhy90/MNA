@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Text3 - Text</name>
+   <tag></tag>
+   <elementGuidId>dcb111be-9e6c-46df-ab7a-1c9e49601dab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.customNode-module__custom-node__ltr-content--xhekg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Text3 - Text&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ec7a827-7f6f-4935-b05a-ba91a5230200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customNode-module__custom-node__ltr-content--xhekg</value>
+      <webElementGuid>aa0a08b9-83bc-47a6-b1d6-4c6939e0decc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Text3 - Text</value>
+      <webElementGuid>79662e3d-5e9b-4dc5-afe8-53c1afc7d456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/main[@class=&quot;layout_layout-container__SwD1Y&quot;]/div[@class=&quot;layout_layout-children-container__mgIlz&quot;]/div[1]/div[@class=&quot;formBuilder_task-form-designer-container__8Of5A&quot;]/div[@class=&quot;sharedCollapsibleContainer_collapsible-container__rQGxR
+            CollapsibleContainer-module__collapsibleDivContainer--BLS45
+            CollapsibleContainer-module__collapsibleDivContainerDefault--Pf8iZ&quot;]/div[@class=&quot;CollapsibleContainer-module__collapsibleActive--_jdwW sharedCollapsibleContainer_collapsible-active__xNKbM&quot;]/div[@class=&quot;sharedCollapsibleContainer_container__U9ZIQ&quot;]/section[@class=&quot;undefined layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;rst__tree controllerBody-module__controller-body__tree--Ug_Cg&quot;]/div[1]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__List rst__virtualScrollOverride&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[@class=&quot;rst__node&quot;]/div[@class=&quot;rst__nodeContent&quot;]/div[2]/div[@class=&quot;customNode-module__custom-node--ruUlE custom-node&quot;]/div[@class=&quot;customNode-module__custom-node__node-container--bXDhE&quot;]/div[@class=&quot;customNode-module__custom-node__node-body--GBHQF&quot;]/div[@class=&quot;customNode-module__custom-node__node-body-content--NPW2V&quot;]/p[@class=&quot;customNode-module__custom-node__title-text--MpRFY&quot;]/span[@class=&quot;customNode-module__custom-node__ltr-content--xhekg&quot;]</value>
+      <webElementGuid>90210db3-d0c9-4107-9a29-7380181d1ebd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div/p/span</value>
+      <webElementGuid>0389e65e-40ac-4360-8463-25f276f0b933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Controller'])[1]/following::span[2]</value>
+      <webElementGuid>0ea4ae8b-0dda-4993-b72f-f2f6006b900f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integer Number'])[1]/following::span[2]</value>
+      <webElementGuid>6ff112ed-fab5-4a84-94cb-cdb09e37c690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Text3']/parent::*</value>
+      <webElementGuid>71385d0f-de09-435a-b83c-797fa2adc4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>2fa91ea0-e275-453d-a40e-067b0a3b7bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Text3 - Text' or . = 'Text3 - Text')]</value>
+      <webElementGuid>c1af003c-d6db-4651-a12c-9a5e58c0597f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

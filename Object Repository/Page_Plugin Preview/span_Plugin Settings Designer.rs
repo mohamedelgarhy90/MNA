@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Plugin Settings Designer</name>
+   <tag></tag>
+   <elementGuidId>b55e6930-bb01-426c-afb8-434a2a9b6feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]/div/div[2]/div[4]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Plugin Settings Designer Edit Collapse&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5bd199bc-f169-4c54-adc3-b1271ce60e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CollapsibleContainer_collapsibleDivTitle__fJa+g</value>
+      <webElementGuid>db18fcd5-7e3e-439d-a46d-2d17a8803bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plugin Settings Designer</value>
+      <webElementGuid>b6165ec8-2e5c-4fb7-ae4d-6e3da8bc6649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
+            CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
+            CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_container-header__ROXux&quot;]/span[@class=&quot;CollapsibleContainer_collapsibleDivTitle__fJa+g&quot;]</value>
+      <webElementGuid>340e0e93-0aff-4a9a-a29a-e5489496b01f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]/div/div[2]/div[4]/div/span</value>
+      <webElementGuid>cf6387c2-43df-4aba-a6c0-35ebc841092e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lrn'])[1]/following::span[2]</value>
+      <webElementGuid>b45bce42-4562-4064-8134-38ba57554128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest release notes'])[1]/following::span[2]</value>
+      <webElementGuid>53f32a39-0717-4d39-add7-f5eaf622413c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data settings'])[1]/preceding::span[2]</value>
+      <webElementGuid>ebe100bf-41dd-4838-a590-45119e7e8f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Behavior settings'])[1]/preceding::span[2]</value>
+      <webElementGuid>0360a528-564a-4250-ae52-2d589f06fc81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plugin Settings Designer']/parent::*</value>
+      <webElementGuid>fea3d459-069a-4454-92bb-c196b6582281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>c3a7ec16-4ac4-4490-b81d-35e25d9bfe83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Plugin Settings Designer' or . = 'Plugin Settings Designer')]</value>
+      <webElementGuid>6c613294-7a80-4685-8f1b-2b14608ca739</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

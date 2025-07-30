@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Latest release noteslrn3500</name>
+   <tag></tag>
+   <elementGuidId>35e9f05e-fea4-4564-9453-78125e4002f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[3]/div/div[2]/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Latest release noteslrn3/500$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a29f349c-c8f4-40d8-a9a5-e0dbfe84157c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CollapsibleContainer_collapsibleActive__btRPk </value>
+      <webElementGuid>03e5c186-f4ed-49d4-8157-24ccd6d1ffcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latest release noteslrn3/500</value>
+      <webElementGuid>b55f21c3-53b2-4861-9ecf-c587a59b7b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
+            CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
+            CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleActive__btRPk&quot;]</value>
+      <webElementGuid>030ef594-4a3c-4f99-a1f5-3699ba4bd567</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[3]/div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>49e3c779-add1-4a85-9c71-5362a864060e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Notes'])[2]/following::div[5]</value>
+      <webElementGuid>74938e00-50f1-48c2-9288-dc4ad45a0948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='user.guide'])[1]/following::div[7]</value>
+      <webElementGuid>13250acb-1665-4ff5-a15a-da6100f2f950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]</value>
+      <webElementGuid>63b82168-2600-4662-91e8-e47f54c98a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Latest release noteslrn3/500' or . = 'Latest release noteslrn3/500')]</value>
+      <webElementGuid>ef0eef19-fc9a-4473-b474-ae2a34dd798c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

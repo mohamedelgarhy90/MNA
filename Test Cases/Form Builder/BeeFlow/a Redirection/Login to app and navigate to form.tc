@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login to app and navigate to form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c4ab978-6ce1-4a0b-a3ee-8728913b8eff</testCaseGuid>
+</TestCaseEntity>

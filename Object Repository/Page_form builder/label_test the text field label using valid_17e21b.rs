@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_test the text field label using valid_17e21b</name>
+   <tag></tag>
+   <elementGuidId>a9e1256c-2a5d-40d5-a003-865402e78b25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.fb-field-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='examination-active']/div[2]/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;test the text field label using valid real dataaaa&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>86d22d75-f6d4-42a6-ba43-552f7a166a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fb-field-label</value>
+      <webElementGuid>e1bd3baf-0a36-4ec9-bac2-1b94e6cd2024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test the text field label using valid real dataaaa</value>
+      <webElementGuid>7247c31c-7003-48c6-abc9-d3295564b52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;examination-active&quot;)/div[@class=&quot;examination-body core&quot;]/div[@class=&quot;collapse show&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item  penta-r12&quot;]/div[@class=&quot;penta-form-header-container onDemand-header&quot;]/label[@class=&quot;fb-field-label&quot;]</value>
+      <webElementGuid>ef3673df-a084-4721-a71e-67277d8d7035</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='examination-active']/div[2]/div/div/div/div/label</value>
+      <webElementGuid>e1b998a3-7f1e-4cd6-b450-58a874d29940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='req title'])[1]/following::label[1]</value>
+      <webElementGuid>057b3dbc-b8fa-4227-90fb-fc7bf6b478e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[3]</value>
+      <webElementGuid>157beee9-5fdf-44ab-a545-dbd36f437e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[3]</value>
+      <webElementGuid>e8d761f7-2e40-4baa-97de-871af6b3bf61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test the text field label using valid real dataaaa']/parent::*</value>
+      <webElementGuid>a73ded66-8bad-4cdd-b764-9ffcee36cab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/label</value>
+      <webElementGuid>0999e6a5-b95c-4cd9-95b8-3355c6c288a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'test the text field label using valid real dataaaa' or . = 'test the text field label using valid real dataaaa')]</value>
+      <webElementGuid>daa38915-fd6c-4c02-987e-f6ed6d2884e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

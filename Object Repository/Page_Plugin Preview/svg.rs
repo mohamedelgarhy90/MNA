@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>c4314ebf-d037-46c9-9207-8cbfb19f03d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Information'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Technical Information Edit Collapse&quot;i] >> internal:attr=[title=&quot;Collapse&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f1407bb8-ce7c-493d-b443-a79e8bed7337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>7d763936-4a25-4811-90b9-6fceea794265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>45b0492f-ce43-4dd3-9f8d-68dbf906d6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 16 9</value>
+      <webElementGuid>60dcefba-1271-40a3-8851-90217ff16b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
+            CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
+            CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_container-header__ROXux&quot;]/div[@class=&quot;d-flex gap-3 align-items-center&quot;]/span[1]/svg[1]</value>
+      <webElementGuid>295ae4cf-cc30-4037-bda5-c6171201ddc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3f34287d-fa9f-41df-bd5f-3599a2237b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#000</value>
+      <webElementGuid>4e929361-ec25-496b-9f0b-b38373c6d1ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Information'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>d891c899-448b-46d7-8589-79e40b3e3b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Preview'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>d48c89a5-978b-4455-9d62-8400be2f2f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repository URL'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ec89b487-77b6-4a40-acfd-d2d39e0dff1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penta-b'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>799cc7ec-eeb2-43a9-9f3a-bc53fa04f892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[4]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ec33d763-0674-459d-a1f2-4c78389fde31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Preview'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>2cd5145c-40d5-4a4e-8674-d2e3c882eeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>b842fca2-9cbb-4731-807a-f4511c219786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

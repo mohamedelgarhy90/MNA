@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_request</name>
+   <tag></tag>
+   <elementGuidId>81c44341-3ebe-478a-94b8-66be341c0ae6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.userTasksCatalogue_task-title__mTEm7 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/ul[2]/li[2]/div/div/div[2]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;request&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26bf1cf5-7751-477b-bc36-5e9c7048c73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>request</value>
+      <webElementGuid>6989dcd2-62f7-426d-b4da-84d7d01c0132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/main[@class=&quot;layout_layout-container__SwD1Y&quot;]/div[@class=&quot;navigation_nav-items-container__XZDz8&quot;]/ul[@class=&quot;navigation_sub-nav-items-container__lFFSK&quot;]/li[@class=&quot;navigationItems_nav-item-container__k8+DJ&quot;]/div[1]/div[@class=&quot;userTasksCatalogue_tasks-container__SHHcU&quot;]/div[@class=&quot;userTasksCatalogue_tasks-list__c4sfs&quot;]/a[@class=&quot;userTasksCatalogue_task-card__xDYGr&quot;]/div[@class=&quot;userTasksCatalogue_task-title__mTEm7&quot;]/span[1]</value>
+      <webElementGuid>54ac03d5-7522-4ebc-9f83-192273a495cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/ul[2]/li[2]/div/div/div[2]/a/div/span</value>
+      <webElementGuid>28958415-c521-409c-8edb-33037b3c0dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Tasks'])[1]/following::span[1]</value>
+      <webElementGuid>9e256adc-c1bb-4a8e-aedd-5836a42c8666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Configuration'])[1]/preceding::span[1]</value>
+      <webElementGuid>f3180fe7-f511-4216-af39-955e609dd2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Configuration'])[1]/preceding::span[2]</value>
+      <webElementGuid>a4d78ebd-ed12-4faa-8933-37fca751034d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='request']/parent::*</value>
+      <webElementGuid>baafe9fe-eddb-46c7-acba-ff5476f8641a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/span</value>
+      <webElementGuid>e0181caa-a330-43fd-960d-a432ad50cea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'request' or . = 'request')]</value>
+      <webElementGuid>4f4cefb6-cbb4-4b75-a55d-e97e817071c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

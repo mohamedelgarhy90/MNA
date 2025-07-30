@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mna Key_penta-editable-textbox-button</name>
+   <tag></tag>
+   <elementGuidId>7a96ec8f-362b-4695-b218-1a405a176022</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.penta-editable-textbox-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d0386da1-cb70-42d2-8b59-6843a25c063b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>penta-editable-textbox-button</value>
+      <webElementGuid>ec42b859-4c01-4a09-8d23-8a87b52b2f13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/main[@class=&quot;layout_layout-container__SwD1Y&quot;]/div[@class=&quot;layout_layout-children-container__mgIlz&quot;]/div[1]/div[@class=&quot;formBuilder_task-form-designer-container__8Of5A&quot;]/div[@class=&quot;sharedCollapsibleContainer_collapsible-container__rQGxR
+            CollapsibleContainer-module__collapsibleDivContainer--BLS45
+            CollapsibleContainer-module__collapsibleDivContainerDefault--Pf8iZ&quot;]/div[@class=&quot;CollapsibleContainer-module__collapsibleActive--_jdwW sharedCollapsibleContainer_collapsible-active__xNKbM&quot;]/div[@class=&quot;sharedCollapsibleContainer_container__U9ZIQ&quot;]/section[@class=&quot;undefined layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item  undefined&quot;]/div[@class=&quot;penta-editable-textbox-container disabled&quot;]/button[@class=&quot;penta-editable-textbox-button&quot;]</value>
+      <webElementGuid>ff5491fa-12c7-496e-ad6d-14e7da5e564b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>eabd76ba-34c3-429f-a360-774a3a9a39d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mna Key'])[1]/following::button[1]</value>
+      <webElementGuid>ff952843-8685-4569-bfed-5f59679c374c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[2]/following::button[2]</value>
+      <webElementGuid>c4684d87-58c1-4360-aae5-987724cf9d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Class Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>a8e6aac6-4720-40dd-8e6c-e3736076bb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label'])[2]/preceding::button[1]</value>
+      <webElementGuid>25796992-9eea-45cb-b78a-0ffff258da7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>6eef02d5-3c5f-40c8-bd74-b19c6385ab7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

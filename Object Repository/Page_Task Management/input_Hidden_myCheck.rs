@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Hidden_myCheck</name>
+   <tag></tag>
+   <elementGuidId>01851f91-c51d-43c6-9c64-35efdda4be79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.penta-form-item.penta-r12 > div.penta-checkbox > #myCheck</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='myCheck'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#myCheck >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>78b92698-c609-46dc-80f9-33b0eaafb04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>myCheck</value>
+      <webElementGuid>31543fa2-9ade-4c14-9049-acff7e130c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>18c1cda4-c9a2-426a-ae5b-34424dfbe8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/main[@class=&quot;layout_layout-container__SwD1Y&quot;]/div[@class=&quot;layout_layout-children-container__mgIlz&quot;]/div[1]/div[@class=&quot;formBuilder_task-form-designer-container__8Of5A&quot;]/div[@class=&quot;sharedCollapsibleContainer_collapsible-container__rQGxR
+            CollapsibleContainer-module__collapsibleDivContainer--BLS45
+            CollapsibleContainer-module__collapsibleDivContainerDefault--Pf8iZ&quot;]/div[@class=&quot;CollapsibleContainer-module__collapsibleActive--_jdwW sharedCollapsibleContainer_collapsible-active__xNKbM&quot;]/div[@class=&quot;sharedCollapsibleContainer_container__U9ZIQ&quot;]/section[@class=&quot;undefined layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item  penta-r12&quot;]/div[@class=&quot;penta-checkbox&quot;]/input[@id=&quot;myCheck&quot;]</value>
+      <webElementGuid>b2b074a0-f83a-4fae-ab55-b7d2af89eba7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='myCheck'])[3]</value>
+      <webElementGuid>49bfd548-e304-4bdf-b11a-86159196fda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div[2]/div/div[2]/div/div[2]/div/section/aside/div/div[2]/div/div/div/div[6]/div/input</value>
+      <webElementGuid>49c9380b-11cd-4f77-a218-824c5df66e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>8589d35f-78c4-449a-9a03-e24f8a2fb106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'myCheck' and @type = 'checkbox']</value>
+      <webElementGuid>2ae20921-ac38-4401-b0a7-583512656d3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
