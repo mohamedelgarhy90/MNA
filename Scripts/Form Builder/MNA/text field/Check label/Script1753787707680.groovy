@@ -17,17 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_My Contributions'))
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_Plugins'))
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Plugins/img'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
+WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Label_label'), 'osama')
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/p_9250'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/div_BackPublish'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/label_more than fifty characterssssssssssss_16b684'), 
+    'osama')
 

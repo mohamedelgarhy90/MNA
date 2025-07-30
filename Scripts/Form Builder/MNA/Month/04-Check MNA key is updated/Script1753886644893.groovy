@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Plugin Preview/edit month'))
 
@@ -27,15 +27,13 @@ WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Confirm'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), 'time11')
+WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), 'month11')
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), 'time11')
-
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/span_Time11 - Time'), 'Time11 - Time')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/span_Time11 - Time'), 'Month11 - Month')
 
 WebUI.closeBrowser()
 

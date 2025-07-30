@@ -19,22 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Home/a_My Contributions'))
 
-WebUI.click(findTestObject('Page_Plugin Preview/edit month'))
+WebUI.click(findTestObject('Page_Product Selector/HH smart selector/Page_Plugins/Page_Plugins/a_Plugins'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('Page_Product Selector/HH smart selector/Page_Plugins/a_Hossam Fb'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Confirm'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
 
-WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), 'unique')
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Plugin Preview/p_A field with this MNA key already exists._29583e'), 
-    0)
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
 

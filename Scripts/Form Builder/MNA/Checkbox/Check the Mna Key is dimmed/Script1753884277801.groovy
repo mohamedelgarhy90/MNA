@@ -17,24 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
 
-WebUI.click(findTestObject('Page_Plugin Preview/edit month'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Confirm'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), 'unique')
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Plugin Preview/p_A field with this MNA key already exists._29583e'), 
-    0)
-
-WebUI.closeBrowser()
+WebUI.verifyElementNotClickable(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'))
 
