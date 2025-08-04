@@ -6,12 +6,12 @@
    <elementGuidId>0545f153-d543-4467-98d2-0f81e27a9292</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.row > div > div.Configurator_configurator-container__6SRJm > div > div.Configurator_nested-tabs__OaaCo > div > div.Configurator_overlay-container__wTRRa > section.layout-module__layout--X_ghC > aside.layout-module__layout__controller--DWU0n.layout-module__global-styles--QBg5e > div.container-module__container--s5FMn.container-module__container--column--_uXCG.controller-module__controller--V_jZ4 > div.container-module__container__body--ocDRC.controller-module__controller__body--ryb2H > div.controllerBody-module__controller-body--RJ39V > div.settings-form.form-builder-wrapper > div.undefined.penta-group-row.penta-form.penta-smart-forms > div.penta-form-item > div.penta-editable-textbox-container > #mnaKey</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='mnaKey'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
          <value>internal:role=complementary >> #mnaKey</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5a743440-1139-42ac-a2cd-3c31054632bd</webElementGuid>
+      <webElementGuid>d3f177ec-2c34-41bb-a710-2cb93fac7a35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b4594cc1-d805-4d4e-8ace-5764042a3517</webElementGuid>
+      <webElementGuid>667b6f2a-98d2-4783-b888-27eebf29a73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>penta-editable-textbox</value>
-      <webElementGuid>0729ecee-8cb1-4a0c-b6e2-3ffc03554882</webElementGuid>
+      <webElementGuid>e61b4c30-a7f2-4127-94ef-63752eca321b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mnaKey</value>
-      <webElementGuid>bf62b54f-02df-4b8c-b723-9b58dcd3a124</webElementGuid>
+      <webElementGuid>b090ead9-437d-4b9d-9967-8ff3248fd02f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mnaKey</value>
-      <webElementGuid>69f2c9f3-e714-4326-922e-f6c1c20f2ce8</webElementGuid>
+      <webElementGuid>fa79e17c-1290-44dc-9a26-73180bdffe97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>63d27457-6659-48f3-a125-1d9ef6e1d900</webElementGuid>
+      <webElementGuid>8242236d-caa5-4664-9df2-f67f5c8a70cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>time1</value>
-      <webElementGuid>66b6fa17-60dc-46f8-8c78-d98be0dbb0e4</webElementGuid>
+      <value>das</value>
+      <webElementGuid>c2d66243-62e2-4322-a645-ed4ec581df74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-editable-textbox-container&quot;]/input[@id=&quot;mnaKey&quot;]</value>
-      <webElementGuid>2aaa6f9b-52d7-41eb-b13a-7a5b8d68f35a</webElementGuid>
+      <webElementGuid>da681dca-a356-405c-8a42-51e833803f5e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='mnaKey'])[2]</value>
-      <webElementGuid>b87e8ed3-2baf-4883-b7d7-d27f8bf95673</webElementGuid>
+      <webElementGuid>9a1b104d-23b6-4af8-955c-40b8ea11e964</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/div/div[2]/section/aside/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>195084b8-3aab-43f7-bc75-78a6dd89faac</webElementGuid>
+      <webElementGuid>2c785121-01ec-43f0-9846-cf2f247b1dbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'mnaKey' and @name = 'mnaKey']</value>
-      <webElementGuid>6592bbaf-eca0-4686-8223-04d944918202</webElementGuid>
+      <webElementGuid>4872b0de-86f6-466a-b97e-4fd3669450bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

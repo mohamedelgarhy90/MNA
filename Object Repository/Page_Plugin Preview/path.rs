@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>88ab92ef-571f-4bad-8765-0abc0b692490</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row > div > div.Configurator_configurator-container__6SRJm > div > div.Configurator_nested-tabs__OaaCo > div > div.Configurator_overlay-container__wTRRa > section.layout-module__layout--X_ghC > aside.layout-module__layout__controller--DWU0n.layout-module__global-styles--QBg5e > div.container-module__container--s5FMn.container-module__container--column--_uXCG.controller-module__controller--V_jZ4 > div.container-module__container__body--ocDRC.controller-module__controller__body--ryb2H > div.controllerBody-module__controller-body--RJ39V > div.settings-form.form-builder-wrapper > div.undefined.penta-group-row.penta-form.penta-smart-forms > div.penta-form-item > div.penta-editable-textbox-container.disabled > button.penta-editable-textbox-button > svg > g > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=complementary >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>88046d3e-a357-4905-bf66-d7e1d089cf85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M11.5833 7.02705C11.2607 7.02705 11 7.28842 11 7.61035V12.2771C11 12.5984 10.7386 12.8604 10.4167 12.8604H2.25C1.92796 12.8604 1.6667 12.5984 1.6667 12.2771V4.11035C1.6667 3.78896 1.92796 3.52705 2.25 3.52705H6.9167C7.23927 3.52705 7.5 3.26569 7.5 2.94376C7.5 2.62172 7.23927 2.36035 6.9167 2.36035H2.25C1.28517 2.36035 0.5 3.14552 0.5 4.11035V12.2771C0.5 13.2419 1.28517 14.0271 2.25 14.0271H10.4167C11.3815 14.0271 12.1667 13.2419 12.1667 12.2771V7.61035C12.1667 7.28778 11.9059 7.02705 11.5833 7.02705Z</value>
+      <webElementGuid>126cc882-fa96-4efa-a9cc-cba4fbc247c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#0896D4</value>
+      <webElementGuid>ef6afd3c-9cd9-4a94-9685-0ea32904ca08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-editable-textbox-container disabled&quot;]/button[@class=&quot;penta-editable-textbox-button&quot;]/svg[1]/g[1]/path[1]</value>
+      <webElementGuid>cd974c65-b6aa-430a-a3cc-e260f12a4750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>33d04540-5b80-4c9a-82c3-474d44a46010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>2621e91d-d2d5-4965-a534-ec83917db732</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

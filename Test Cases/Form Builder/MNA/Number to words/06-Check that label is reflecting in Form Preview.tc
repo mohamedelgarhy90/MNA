@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06-Check that label is reflecting in Form Preview</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>147c4976-131f-4c58-b819-67e999a441a2</testCaseGuid>
+</TestCaseEntity>

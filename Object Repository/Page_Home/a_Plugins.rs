@@ -21,7 +21,7 @@
          <value>internal:role=link[name=&quot;Plugins&quot;s]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>09417b3a-b6a0-49b8-8655-5bfcd87184bc</webElementGuid>
+      <webElementGuid>07a3c948-47f6-4659-8b28-bac9e8adf268</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item MobileNav_dropdown-item__05t37</value>
-      <webElementGuid>ddb7d170-cdae-436a-bfc8-41e7e650f50c</webElementGuid>
+      <webElementGuid>90fd69d6-0961-4e67-9d96-a9c97dfc99b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>common-nav__link-contrib-plugin-catalogue</value>
-      <webElementGuid>530386e4-a2b9-4755-a9d4-8d5c5caafc44</webElementGuid>
+      <webElementGuid>f6730743-c47b-4c46-8d52-813050bc70a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/penta-app-admin-entry-point-fb/MnA-fb/MyContributionsPlugins</value>
-      <webElementGuid>21b5c460-acee-489a-a99b-6125be230536</webElementGuid>
+      <webElementGuid>3e1242a2-aaaf-43fd-b329-90fc2b088f96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Plugins</value>
-      <webElementGuid>7172bcaf-5c4b-43d1-b32a-2497eea24310</webElementGuid>
+      <webElementGuid>269f6c4b-f50d-4c0d-849d-28ac59a3db91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;common-nav__link-contrib-plugin-catalogue&quot;)</value>
-      <webElementGuid>f9f33ee0-8b2d-47d1-9158-63b29a360163</webElementGuid>
+      <webElementGuid>53854dbb-f119-4c2d-880d-13a4ab5ec41b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='common-nav__link-contrib-plugin-catalogue']</value>
-      <webElementGuid>bda36f21-fdae-43b0-b339-971106028f5d</webElementGuid>
+      <webElementGuid>356d1c11-ec24-4a6c-a908-9e5232b60f22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[5]/ul/a</value>
-      <webElementGuid>db261cad-da0d-42e6-a60d-ab6ee10d4fc9</webElementGuid>
+      <webElementGuid>3993519c-e1c5-4fd5-b35c-d26497b21080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Plugins')])[2]</value>
-      <webElementGuid>f06d20fb-2a55-4227-af13-09a69d32b133</webElementGuid>
+      <webElementGuid>322c529d-607e-4da6-8666-5767c1b3ce66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Contributions'])[1]/following::a[1]</value>
-      <webElementGuid>7416e720-bd4e-4f19-ab8d-dda6d71bd54e</webElementGuid>
+      <webElementGuid>64635df2-bd9f-4b9a-a429-7e209288d302</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications Catalogue'])[1]/following::a[2]</value>
-      <webElementGuid>21d87c66-72c4-457a-a3f1-2db8ab007a9b</webElementGuid>
+      <webElementGuid>6afab801-657d-4242-a888-acbe7659d786</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/preceding::a[1]</value>
-      <webElementGuid>3ec153be-9291-44c5-938e-e23ac3bcaffa</webElementGuid>
+      <webElementGuid>f35e0a94-d7b6-47b4-9c16-35e31e9a5ee8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sheets'])[2]/preceding::a[2]</value>
-      <webElementGuid>68f590c2-19ec-443f-8858-eafa28ddf0e0</webElementGuid>
+      <webElementGuid>9a9c42bd-cd45-4f27-81bd-973e918c330c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/penta-app-admin-entry-point-fb/MnA-fb/MyContributionsPlugins')]</value>
-      <webElementGuid>d384579e-f012-4386-af54-c76272409de5</webElementGuid>
+      <webElementGuid>e9ca7679-a3d7-49b7-af08-a534cd8dd07d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/a</value>
-      <webElementGuid>292b70db-b1b9-4075-9fbb-f44cf6bc8ee9</webElementGuid>
+      <webElementGuid>3a67082d-a619-4df0-893c-b27159f628d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'common-nav__link-contrib-plugin-catalogue' and @href = '/penta-app-admin-entry-point-fb/MnA-fb/MyContributionsPlugins' and (text() = 'Plugins' or . = 'Plugins')]</value>
-      <webElementGuid>13a0963f-88fc-4aea-a2d7-99e17f6d922c</webElementGuid>
+      <webElementGuid>c22c41cb-9065-47e1-a882-3c56301d25a5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04-Check that MNA key is editable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77406f0e-aa42-4346-a0e8-eebd3287dafb</testCaseGuid>
+</TestCaseEntity>

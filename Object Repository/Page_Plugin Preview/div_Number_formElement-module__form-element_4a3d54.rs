@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Number_formElement-module__form-element_4a3d54</name>
+   <tag></tag>
+   <elementGuidId>b66d7c76-aedc-4b0d-a22b-4a6669eb9b44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1464c34d-1b3e-428b-a589-3161660894dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>formElement-module__form-element--aoK61 formDesignerFieldsBody-module__form-designer-field-body__item--IQl6E</value>
+      <webElementGuid>b45b515f-0ddd-47fd-b6fd-7ed316b7e1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e2f95f5c-6556-4302-8424-075a90805ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Number To Words</value>
+      <webElementGuid>04934520-f52b-4117-9992-1c3577cb0006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/section[@class=&quot;layout-module__layout__from-designer-fields--VdORR layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG formDesignerFields-module__form-designer-field__container--VHoV9 formDesignerFields-module__hovered--J5m_t&quot;]/div[@class=&quot;container-module__container__body--ocDRC formDesignerFields-module__form-designer-field__container__body--VG2u1&quot;]/div[@class=&quot;formDesignerFieldsBody-module__form-designer-field-body__container--lZG2V&quot;]/div[@class=&quot;formElement-module__form-element--aoK61 formDesignerFieldsBody-module__form-designer-field-body__item--IQl6E&quot;]</value>
+      <webElementGuid>4d50edbd-a180-4731-80c5-36bdbe12465a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[2]/following::div[1]</value>
+      <webElementGuid>f82cf14e-f579-462f-a31b-39416e74b542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fields'])[2]/following::div[7]</value>
+      <webElementGuid>d67dab32-e879-41b5-a167-1374d105bef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integer Number'])[2]/preceding::div[1]</value>
+      <webElementGuid>3e1d53de-0c6c-4560-a8dc-c984de682ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div[2]/section/section/div/div[2]/div/div[2]</value>
+      <webElementGuid>90047130-39da-4edf-9d6a-3df92292876a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Number To Words' or . = 'Number To Words')]</value>
+      <webElementGuid>9c6e5b8d-cc7d-434b-a8aa-784eb3d4adbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

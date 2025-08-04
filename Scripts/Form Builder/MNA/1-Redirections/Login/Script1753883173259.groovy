@@ -21,15 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point-fb/MnA-fb/')
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_Home/a_English_mna-btn-md Header_login-btn__pFNQM'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'), 'red')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Organization Name_login-form__button-login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to red/input_Username  Email_username'), 'red')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to red/input_Username  Email_login-form__input-username'), 
+    'red')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to red/input_Password_password'), '/Y8+3bfpxpw=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to red/input_Password_login-form__input-password'), 
+    '/Y8+3bfpxpw=')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to red/input_Forgot Password_login'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to red/input_Forgot Password_login-form__button-login'))
 

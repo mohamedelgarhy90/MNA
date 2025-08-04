@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_How to create a plugin_CardTitle_title__A_afb0fb</name>
+   <tag></tag>
+   <elementGuidId>a05ad23b-790e-4656-bb4a-780b03d4acd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.CardTitle_title__Ai3Ul.CardTitle_clickable__u59M1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mahmoud Fb&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d888e25e-efc2-4cd0-b0ce-5212038aeb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CardTitle_title__Ai3Ul CardTitle_clickable__u59M1</value>
+      <webElementGuid>787362ac-633a-450f-ac11-9cf1d30c9056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tip</name>
+      <type>Main</type>
+      <value>Mahmoud Fb</value>
+      <webElementGuid>7f8d4b02-8ffd-44e0-8996-f3ce68bece2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/8aafdca0-77d5-4f4e-91de-9a34849899eb/Mahmoud%20Fb</value>
+      <webElementGuid>36694394-1369-4f66-a564-2b3474713367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>currentitem</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fc0d3aca-9b7b-4680-bd42-2edb22ba031a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>t88a91866-1b41-4110-aabe-d09e060f7bb3</value>
+      <webElementGuid>6ae3c935-9765-4d43-848f-441bfcd9d7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mahmoud Fb</value>
+      <webElementGuid>9f1c0f24-0b58-4060-84f5-229f18539052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container CatalogPage_page__9FiW- undefined&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;d-flex gap-3 flex-wrap&quot;]/div[@class=&quot;PublicCatalogBase_global-card__aqymy&quot;]/div[@class=&quot;GridCard_card__+UFjt  d-flex p-3 flex-column&quot;]/a[@class=&quot;GridCard_card-link__2bLqw d-flex gap-3 flex-column flex-grow-1&quot;]/div[@class=&quot;GridCard_body__gcCxG&quot;]/div[@class=&quot;d-flex gap-2 justify-content-between&quot;]/div[@class=&quot;CardTitle_title-container__J2rZu&quot;]/a[@class=&quot;CardTitle_title__Ai3Ul CardTitle_clickable__u59M1&quot;]</value>
+      <webElementGuid>94e0ae38-7573-415d-a30d-2a8685e6fcc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div[2]/div/div/a</value>
+      <webElementGuid>ce82f5cd-7350-41df-878c-74b174544a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mahmoud Fb')]</value>
+      <webElementGuid>0fb5fb0b-821c-4bcc-b270-5a8ecd373048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to create a plugin'])[1]/following::a[2]</value>
+      <webElementGuid>827299e0-1d2c-45e3-866a-2c54b731edb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FB'])[1]/preceding::a[1]</value>
+      <webElementGuid>f9ed7e4e-cf1f-47fe-be91-d5058b50c0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ar'])[1]/preceding::a[1]</value>
+      <webElementGuid>3b7ad043-2781-4d54-9224-52b0cf0ca9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mahmoud Fb']/parent::*</value>
+      <webElementGuid>d93c6f23-219b-43bd-a389-3a2f5d10f933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/8aafdca0-77d5-4f4e-91de-9a34849899eb/Mahmoud%20Fb')]</value>
+      <webElementGuid>b2929b53-40bb-4ab6-b995-9cdc493f28c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div/div/a</value>
+      <webElementGuid>ec6545fa-cfe5-420b-97ec-340f00296e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/8aafdca0-77d5-4f4e-91de-9a34849899eb/Mahmoud%20Fb' and (text() = 'Mahmoud Fb' or . = 'Mahmoud Fb')]</value>
+      <webElementGuid>9c871a94-71cd-4954-8936-b2fda27a8958</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

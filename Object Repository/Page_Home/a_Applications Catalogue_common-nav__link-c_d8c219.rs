@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Applications Catalogue_common-nav__link-c_d8c219</name>
+   <tag></tag>
+   <elementGuidId>1c5b0d8c-6228-4a2b-b995-c2ce1cc59711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='common-nav__link-contrib-catalogues']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#common-nav__link-contrib-catalogues</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;My Contributions&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d1d78b9-b4d2-4970-a6a1-445781f16cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>common-nav__link-contrib-catalogues</value>
+      <webElementGuid>6a76b7ac-044b-4205-aac5-0b0fcd37783b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link MobileNav_nav-dropdown__slkNU MobileNav_nav-link__cOsQ6 false </value>
+      <webElementGuid>6f8453ca-f1df-495c-bc5f-3feb78304362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Contributions</value>
+      <webElementGuid>178cee09-2bb3-4290-a52c-da48b7a4836a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;common-nav__link-contrib-catalogues&quot;)</value>
+      <webElementGuid>75507eb6-1f4a-4926-a493-ff78f04f6e07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='common-nav__link-contrib-catalogues']</value>
+      <webElementGuid>2e89d9d4-9bb9-4061-87a3-f269bb06f34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[5]/a</value>
+      <webElementGuid>9e141fdc-7571-4410-af88-e25246125ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Contributions')]</value>
+      <webElementGuid>4c7d886d-779e-4cdf-af3d-8601aa330112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications Catalogue'])[1]/following::a[1]</value>
+      <webElementGuid>41907756-919f-44fc-ba9f-c7902012c689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugins'])[1]/following::a[2]</value>
+      <webElementGuid>039fbff4-9f4c-433f-b6d5-b02ab2a8a708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugins'])[2]/preceding::a[1]</value>
+      <webElementGuid>759b68cd-6944-40c2-b0ff-da0a10be3652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/preceding::a[2]</value>
+      <webElementGuid>c489ac11-28eb-4c9a-af29-96312fbe2d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Contributions']/parent::*</value>
+      <webElementGuid>f70b64f4-1218-4708-9e11-82fa32f533e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>ad7e68d9-af99-49c2-acbd-e2cdc4920801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'common-nav__link-contrib-catalogues' and (text() = 'My Contributions' or . = 'My Contributions')]</value>
+      <webElementGuid>9cb79df1-fba3-40fb-81e7-a2afdef6b843</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

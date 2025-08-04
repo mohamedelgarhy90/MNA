@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check that the Checkbox Label is required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5ed5533-e70a-4918-b42a-ba210b8cc835</testCaseGuid>
+</TestCaseEntity>

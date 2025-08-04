@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>61232c28-5b2a-4393-8548-d9f484a2d7ea</webElementGuid>
+      <webElementGuid>e9cd3253-3570-4214-b567-41096add70ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>penta-textbox</value>
-      <webElementGuid>93649274-6ebd-465c-8544-61de0cff17a5</webElementGuid>
+      <webElementGuid>d5b663f7-91c9-4b09-99a3-27728101fa54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>da676e88-b55f-4bbe-95be-1945f95ad9b8</webElementGuid>
+      <webElementGuid>71d93181-9343-4c00-878a-58f0179f1487</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>ce1de322-97ad-4dfb-a4b2-ca1526700836</webElementGuid>
+      <webElementGuid>f385706d-d4b2-4c66-943f-d2749b9ebaf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6386b8bd-4a2a-453c-bcbb-178021cc51a3</webElementGuid>
+      <webElementGuid>5760262a-4658-456c-9e44-fe07b1d743c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/input[@id=&quot;label&quot;]</value>
-      <webElementGuid>6e097d8d-7fd6-42fd-8f81-475ec2dffa07</webElementGuid>
+      <webElementGuid>89336e76-d609-4d0e-a92c-65b2ac597c16</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='label'])[2]</value>
-      <webElementGuid>47d09136-d202-426d-b16d-f37a063cf65e</webElementGuid>
+      <webElementGuid>bde2f170-1452-464e-a1b2-8e9075c465c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/div/div[2]/section/aside/div/div[2]/div/div/div/div[3]/input</value>
-      <webElementGuid>85c558b3-a47c-455a-9c82-420595849bc9</webElementGuid>
+      <webElementGuid>1aeddef6-d238-4fd9-a80c-df1f3c6f6e4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'label' and @type = 'text']</value>
-      <webElementGuid>ec53825b-bb81-4ddb-b409-7d9a4588e130</webElementGuid>
+      <webElementGuid>6d9b9c48-67c2-42db-b6ae-f26c6df837de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
