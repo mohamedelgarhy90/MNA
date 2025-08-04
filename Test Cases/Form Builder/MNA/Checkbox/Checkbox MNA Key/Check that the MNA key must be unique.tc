@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check that the MNA key must be unique</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7eb975ae-1c7c-4ac7-8c00-0ec094bf574f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Class Name is mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b3744c9-154f-44c2-88b4-7a6496f1d6a2</testCaseGuid>
+</TestCaseEntity>

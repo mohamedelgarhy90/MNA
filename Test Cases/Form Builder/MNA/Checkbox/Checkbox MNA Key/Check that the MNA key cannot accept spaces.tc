@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check that the MNA key cannot accept spaces</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5aef4bc4-9dd7-4a78-9f40-b76ff62295c9</testCaseGuid>
+</TestCaseEntity>
