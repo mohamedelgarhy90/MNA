@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Fields_formDesignerFields-module__icon-_e3861c</name>
+   <tag></tag>
+   <elementGuidId>33c442f9-e9be-4896-8b62-50e70a681113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Fields'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-module__container--s5FMn.container-module__container--column--_uXCG.formDesignerFields-module__form-designer-field__container--VHoV9.formDesignerFields-module__hovered--J5m_t > div.container-module__container__header--cknVj.formDesignerFields-module__form-designer-field__container__header--B3HYr > button.formDesignerFields-module__icon-btn--bM9R7 > svg.formDesignerFields-module__icon-btn__icon--oU41c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.row > div > .Configurator_configurator-container__6SRJm > div > .Configurator_nested-tabs__OaaCo > div > .Configurator_overlay-container__wTRRa > .layout-module__layout--X_ghC > .layout-module__layout__from-designer-fields--VdORR > .container-module__container--s5FMn > .container-module__container__header--cknVj > .formDesignerFields-module__icon-btn--bM9R7</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5cdbfa71-deca-4081-9f40-b89ccd332886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>8ccbdc99-4b38-4985-af2a-010676156d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>2da6db01-229c-46ce-8840-6c75e6a2752f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>8ff2246d-0242-403f-bda3-6e1cf43d62fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>38710524-dd0c-4f8e-b02b-31f5c4194308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ccd9f3bd-203f-4374-8398-73f4a3182678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>formDesignerFields-module__icon-btn__icon--oU41c</value>
+      <webElementGuid>e82fe15a-e26e-48ef-82c2-668f76a370b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/section[@class=&quot;layout-module__layout__from-designer-fields--VdORR layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG formDesignerFields-module__form-designer-field__container--VHoV9 formDesignerFields-module__hovered--J5m_t&quot;]/div[@class=&quot;container-module__container__header--cknVj formDesignerFields-module__form-designer-field__container__header--B3HYr&quot;]/button[@class=&quot;formDesignerFields-module__icon-btn--bM9R7&quot;]/svg[@class=&quot;formDesignerFields-module__icon-btn__icon--oU41c&quot;]</value>
+      <webElementGuid>0a7ac679-5c16-499e-acab-f71b0a1affc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fields'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3aa6aa4c-75a7-4bde-9914-fe8c28c57d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Localization'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ee09cd87-ac24-4e4b-a150-020c56bcbb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Search'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>4836e195-19fb-4a8c-bd62-d53be3e78c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Search'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>2f6f9e6b-d2cd-4a46-b6d9-edb09f7df359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

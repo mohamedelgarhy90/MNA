@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Navigate to plugin settings designer (Hossam) - Copy</name>
+   <name>Verify that MNA key is editable</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4dbaf73d-6023-4d9e-8a19-372d51d86c7d</testCaseGuid>
+   <testCaseGuid>2399b227-04d8-4237-9173-a286854a68e1</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Osama FB</name>
+   <tag></tag>
+   <elementGuidId>4cf39ab2-f9cc-41de-969f-898f7b6fb690</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div/a/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b50ae2b-3eb5-4f4b-890a-7eeaa28c8523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CardTitle_title__Ai3Ul CardTitle_clickable__u59M1</value>
+      <webElementGuid>87472ba7-6a6a-4976-8ffe-a331fd13cce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tip</name>
+      <type>Main</type>
+      <value>Osama FB</value>
+      <webElementGuid>c43c2caa-9bb5-4ca6-9ee5-fb988fc5dd25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/1dad98ac-d5bd-40b8-a089-a7981b8e5743/Osama%20FB</value>
+      <webElementGuid>a498c4b8-4403-4176-80b2-b09f3c930677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>currentitem</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9c6d2562-08fc-484d-b63b-6cb82a89fcf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>t0dc0d451-0dc4-4410-8490-46fb635f6638</value>
+      <webElementGuid>8eda20e3-0729-40d6-9970-6e9a576fec43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Osama FB</value>
+      <webElementGuid>0db1fe0e-bef4-4667-9331-b9c62121b6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container CatalogPage_page__9FiW- undefined&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;d-flex gap-3 flex-wrap&quot;]/div[@class=&quot;PublicCatalogBase_global-card__aqymy&quot;]/div[@class=&quot;GridCard_card__+UFjt  d-flex p-3 flex-column&quot;]/a[@class=&quot;GridCard_card-link__2bLqw d-flex gap-3 flex-column flex-grow-1&quot;]/div[@class=&quot;GridCard_body__gcCxG&quot;]/div[@class=&quot;d-flex gap-2 justify-content-between&quot;]/div[@class=&quot;CardTitle_title-container__J2rZu&quot;]/a[@class=&quot;CardTitle_title__Ai3Ul CardTitle_clickable__u59M1&quot;]</value>
+      <webElementGuid>f2894c8a-652f-49f2-a73f-ac0b578be357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div/a/div[2]/div/div/a</value>
+      <webElementGuid>c5057c0c-e7f1-45a2-86f0-c03818af8181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Osama FB')]</value>
+      <webElementGuid>afaf9b6c-453c-441a-85e1-aec8629a94ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::a[2]</value>
+      <webElementGuid>1bdc6492-24d2-4a7d-9ba2-700d06ec6587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OsamaFB'])[1]/preceding::a[1]</value>
+      <webElementGuid>bca8841d-6de7-4f8f-9d46-a1bc3fd81b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ar'])[2]/preceding::a[1]</value>
+      <webElementGuid>e282ed8d-a704-4536-8417-4280b883e636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/1dad98ac-d5bd-40b8-a089-a7981b8e5743/Osama%20FB')]</value>
+      <webElementGuid>61a34ca8-7644-4088-bd35-2db9dc5309db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div[2]/div/div/a</value>
+      <webElementGuid>14019193-76d3-4449-a709-3f3f817af601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/1dad98ac-d5bd-40b8-a089-a7981b8e5743/Osama%20FB' and (text() = 'Osama FB' or . = 'Osama FB')]</value>
+      <webElementGuid>23c5326f-73f8-4f12-9c3f-91c0fd7e1740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that MNA Key is required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40e43c28-4ebc-4266-99d9-fb315f19ef1c</testCaseGuid>
+</TestCaseEntity>

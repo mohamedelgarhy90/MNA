@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_My Contributions'))
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Osama)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_Product Selector/HH smart selector/Page_Plugins/Page_Plugins/a_Plugins'))
+WebUI.click(findTestObject('Object Repository/Date Time/Page_Plugin Preview/svg'))
 
-WebUI.click(findTestObject('Page_Product Selector/HH smart selector/Page_Plugins/a_Hossam Fb'))
+WebUI.click(findTestObject('Object Repository/Date Time/Page_Plugin Preview/div_Mna KeyClass Name9250Label050New lineHi_9bd5f0'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
+WebUI.setText(findTestObject('Object Repository/Date Time/Page_Plugin Preview/input_Class Name_classname'), '')
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
+WebUI.click(findTestObject('Object Repository/Date Time/Page_Plugin Preview/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Date Time/Page_Plugin Preview/div_Class Name Key is required'))
 

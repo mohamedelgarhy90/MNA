@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that label is updated successfullym</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b84c22ca-60a1-4244-9e21-d82a0cf83b67</testCaseGuid>
+</TestCaseEntity>
