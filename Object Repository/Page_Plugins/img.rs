@@ -6,19 +6,19 @@
    <elementGuidId>6ec76d02-c709-4b90-b866-f4a8e54d44e5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.CardImage_card-image__VQJYd > img</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.CardImage_card-image__VQJYd > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;islam fb des Web App ar en Created By: red Not Published&quot;i]</value>
+         <value>internal:role=link[name=&quot;Mahmoud Fb FB Web App ar en Created By: red&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6f18e90c-87a4-4702-97ca-a04e41aa156f</webElementGuid>
+      <webElementGuid>2af8bf1a-9d22-4bb0-aa74-a6dcd8f05a61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/penta-service-storage/downloadFile/1753787347074/Punchin_Pikachu.png?orgId=red&amp;category=Plugins</value>
-      <webElementGuid>bc21e972-8e17-47f9-b8d1-a896fe6c31c9</webElementGuid>
+      <value>/penta-service-storage/downloadFile/1754218068525/testtt.png?orgId=red&amp;category=Plugins</value>
+      <webElementGuid>3cfae761-8933-4f2e-a7de-9014eafc04a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container CatalogPage_page__9FiW- undefined&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;d-flex gap-3 flex-wrap&quot;]/div[@class=&quot;PublicCatalogBase_global-card__aqymy&quot;]/div[@class=&quot;GridCard_card__+UFjt  d-flex p-3 flex-column&quot;]/a[@class=&quot;GridCard_card-link__2bLqw d-flex gap-3 flex-column flex-grow-1&quot;]/div[@class=&quot;GridCard_card-image__vvabD d-flex flex-column gap-2&quot;]/div[@class=&quot;GridCard_img-container__v2aZ7&quot;]/div[@class=&quot;CardImage_card-image__VQJYd&quot;]/img[1]</value>
-      <webElementGuid>bcd8c0eb-379f-4cda-a847-03f54e33301b</webElementGuid>
+      <webElementGuid>6c0056b2-d58b-442c-b940-d24bff3c4f7f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/a/div/div/div/img</value>
-      <webElementGuid>98db9bb4-8e30-4e50-8cc7-f2c3a57c888c</webElementGuid>
+      <webElementGuid>1b358ed1-60b1-4c50-8474-ef245faa9a21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/img</value>
-      <webElementGuid>19bf480e-d068-44a8-80ea-3a6d684e577d</webElementGuid>
+      <webElementGuid>d0fbc5c3-a78b-4ada-a687-ccea2e612484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/penta-service-storage/downloadFile/1754218068525/testtt.png?orgId=red&amp;category=Plugins']</value>
+      <webElementGuid>2fee954e-f106-4b7f-a98c-5bd85b9cd6eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/penta-service-storage/downloadFile/1753787347074/Punchin_Pikachu.png?orgId=red&amp;category=Plugins']</value>
-      <webElementGuid>f20f11c3-4ecb-44f2-8fe1-3759c2f9abab</webElementGuid>
+      <webElementGuid>db4bd6a3-8a1e-4975-a91b-305f58044ded</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

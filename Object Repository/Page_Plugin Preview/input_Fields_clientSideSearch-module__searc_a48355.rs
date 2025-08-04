@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Fields_clientSideSearch-module__searc_a48355</name>
+   <tag></tag>
+   <elementGuidId>8412d058-1d4e-4da4-bfc8-952521c7cf49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-module__container--s5FMn.container-module__container--column--_uXCG.formDesignerFields-module__form-designer-field__container--VHoV9.formDesignerFields-module__hovered--J5m_t > div.container-module__container__header--cknVj.formDesignerFields-module__form-designer-field__container__header--B3HYr > div.clientSideSearch-module__search__container--da0A_.formDesignerFields-module__form-designer-field__container__header__search-container--HKhFz > div.ClientSideTextFilter-module__filter-section--s5hwE > div.ClientSideTextFilter-module__search-section--TpaRB > input.clientSideSearch-module__search__input--MNLQK</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Search for fields&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>140b4612-e467-4e60-96b8-03862e8c1df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9905757a-f2a9-4815-a91c-a2d934597729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for fields</value>
+      <webElementGuid>259e603d-4749-4a3d-9185-4895f1794eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clientSideSearch-module__search__input--MNLQK</value>
+      <webElementGuid>5f904d13-78bc-472d-99f2-a3487ccb718a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/section[@class=&quot;layout-module__layout__from-designer-fields--VdORR layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG formDesignerFields-module__form-designer-field__container--VHoV9 formDesignerFields-module__hovered--J5m_t&quot;]/div[@class=&quot;container-module__container__header--cknVj formDesignerFields-module__form-designer-field__container__header--B3HYr&quot;]/div[@class=&quot;clientSideSearch-module__search__container--da0A_ formDesignerFields-module__form-designer-field__container__header__search-container--HKhFz&quot;]/div[@class=&quot;ClientSideTextFilter-module__filter-section--s5hwE&quot;]/div[@class=&quot;ClientSideTextFilter-module__search-section--TpaRB&quot;]/input[@class=&quot;clientSideSearch-module__search__input--MNLQK&quot;]</value>
+      <webElementGuid>919bef68-3b9f-4ecb-ba64-a5a38b58b488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[7]</value>
+      <webElementGuid>6ad80121-9e29-4b68-9ce1-a729eee423ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div[2]/section/section/div/div/div/div/div/input</value>
+      <webElementGuid>eebff253-8d75-4b17-a0d1-681506e67e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Search for fields']</value>
+      <webElementGuid>df29abfa-ab24-45a3-9e43-38cae31d6b02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

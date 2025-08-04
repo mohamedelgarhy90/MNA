@@ -17,21 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Mahmoud)'), [:], 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point-fb/MnA-fb/')
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_English_mna-btn-md Header_login-btn__pFNQM'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'), 'red')
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Organization Name_login-form__button-login'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to red/input_Username  Email_login-form__input-username'), 
-    'red')
+WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), 'NumberToWords')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to red/input_Password_login-form__input-password'), 
-    '/Y8+3bfpxpw=')
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to red/input_Forgot Password_login-form__button-login'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Reset_penta-button penta-main-button_648841'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Plugin Preview/div_Save_modal-module__modal-header--HOhp9'), 
+    0)
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Duplicate Key Detected_settingsForm-_57d994'))
+
+WebUI.closeBrowser()
 

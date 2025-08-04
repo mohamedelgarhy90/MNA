@@ -21,7 +21,7 @@
          <value>internal:text=&quot;My Contributions&quot;s</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bdcd9d49-1411-4c97-bbaf-27fb5ba392e1</webElementGuid>
+      <webElementGuid>b104584a-bd94-435f-a283-78808f1b5be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>common-nav__link-contrib-catalogues</value>
-      <webElementGuid>d170cc43-9f73-4510-8f6e-e8836802b3c6</webElementGuid>
+      <webElementGuid>7f1b975c-89ed-4ae3-b8aa-cded8b74bb98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link MobileNav_nav-dropdown__slkNU MobileNav_nav-link__cOsQ6 false </value>
-      <webElementGuid>da6d6bb0-9baf-4b2a-981f-ed530288bebe</webElementGuid>
+      <webElementGuid>736c2873-ce0b-4347-9a36-5556de77675f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Contributions</value>
-      <webElementGuid>dc510662-0b5f-49b3-9dc9-fec6b0f2e9fe</webElementGuid>
+      <webElementGuid>a2c52c2f-7511-495c-b04e-5668f082b694</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;common-nav__link-contrib-catalogues&quot;)</value>
-      <webElementGuid>18b9a180-8352-43c0-b076-3a6f61219501</webElementGuid>
+      <webElementGuid>168fb36a-88e6-4ce2-a4f8-c57a60bf7625</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='common-nav__link-contrib-catalogues']</value>
-      <webElementGuid>e232aca7-139d-4671-bdae-084a74cec57c</webElementGuid>
+      <webElementGuid>5c7eb00a-b50f-4f75-ba18-a500a3172369</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/ul/li[5]/a</value>
-      <webElementGuid>ad77f12d-0850-4517-934d-063bbdac8de2</webElementGuid>
+      <webElementGuid>498e428f-458f-46bc-848b-7639142bc1b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'My Contributions')]</value>
-      <webElementGuid>f8b84f67-a4b7-458b-8218-bb98c91b744b</webElementGuid>
+      <webElementGuid>d2baf44e-ee40-4caa-be27-d9b987167d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications Catalogue'])[1]/following::a[1]</value>
-      <webElementGuid>61c536c7-049b-47a1-8211-4debb4792e93</webElementGuid>
+      <webElementGuid>9b481638-16a6-4800-8812-e0a9d16359ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugins'])[1]/following::a[2]</value>
-      <webElementGuid>2c2b19fe-ea58-44e7-a270-88d492833b67</webElementGuid>
+      <webElementGuid>09321cb7-670a-4c9e-b282-9e25fc9668f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugins'])[2]/preceding::a[1]</value>
-      <webElementGuid>2a18975f-b771-4d82-9dca-2e9904cbb22e</webElementGuid>
+      <webElementGuid>a5722af1-b515-4852-9ad2-7c20f3e2cf82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/preceding::a[2]</value>
-      <webElementGuid>172dc48e-d500-44de-a26f-09350397b131</webElementGuid>
+      <webElementGuid>138ad89d-dfbd-46a6-9048-c508b655aff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='My Contributions']/parent::*</value>
-      <webElementGuid>42a37774-c93b-4363-b5a7-a4c42dbd37c8</webElementGuid>
+      <webElementGuid>eec419fd-4c43-4177-a4bc-5cb5b7929db0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a</value>
-      <webElementGuid>d3795ab7-e253-40d5-a8ac-9d12d10c02c1</webElementGuid>
+      <webElementGuid>c6e1f9f8-d8a4-4a9a-adf7-e16cccb6216b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'common-nav__link-contrib-catalogues' and (text() = 'My Contributions' or . = 'My Contributions')]</value>
-      <webElementGuid>4b218bcb-0bee-4d2b-9bde-a7324f84360c</webElementGuid>
+      <webElementGuid>7a0eceba-7b6e-4dfa-9122-ef5e71806677</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

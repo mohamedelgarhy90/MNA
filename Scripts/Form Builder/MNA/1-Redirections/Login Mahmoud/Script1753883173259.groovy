@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_Home/a_English_mna-btn-md Hea
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'), 'red')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Organization Name_login-form__button-login'))
+WebUI.click(findTestObject('Object Repository/Page_Sign In/span'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign in to red/input_Username  Email_login-form__input-username'), 
     'red')

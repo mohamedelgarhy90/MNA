@@ -21,7 +21,7 @@
          <value>internal:text=&quot;Data settings&quot;i</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ebd5f047-a59d-4429-bda6-41af2f9d198d</webElementGuid>
+      <webElementGuid>49fc1c5a-b0c5-4635-9718-28aee7660a89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>TabsContainer-module__tab--HJNBt Configurator_active__ZhIq5</value>
-      <webElementGuid>e00d37a9-b3d6-4fff-be91-d6ebdc1f17e1</webElementGuid>
+      <webElementGuid>a1776cb0-29ce-4d51-b1ef-0b0e58238722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Data settings</value>
-      <webElementGuid>e3f7a4cb-e7ab-41bf-a5ea-6e3f04796a43</webElementGuid>
+      <webElementGuid>70edf066-a1a6-46ea-9833-22e8e235a96b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
             CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
             CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleActive__btRPk&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_settings-type__MUFZK TabsContainer-module__tabs-container--Ok455&quot;]/div[@class=&quot;TabsContainer-module__tab--HJNBt Configurator_active__ZhIq5&quot;]</value>
-      <webElementGuid>9df4a6bd-993c-4277-b9a9-9165539e4925</webElementGuid>
+      <webElementGuid>fa59d8dd-bd7f-4eb2-bc99-853ad5920509</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[3]/div/div[2]/div[4]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>514be6d4-a616-4d7f-9dfb-e9fab4644b27</webElementGuid>
+      <webElementGuid>b0098cfd-178f-4ea9-9100-7bb7eb5af868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugin Settings Designer'])[1]/following::div[10]</value>
-      <webElementGuid>0c8a7a7b-9e22-45e2-8e35-e382bf71b4e4</webElementGuid>
+      <webElementGuid>a665eae9-160b-4e7a-b9f8-8d6301e4ffdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='lrn'])[1]/following::div[12]</value>
-      <webElementGuid>c86c984b-548d-44a2-a5c8-9d7733417057</webElementGuid>
+      <webElementGuid>b328aa42-68e4-4e6b-86c5-9ce4edeee3e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Behavior settings'])[1]/preceding::div[1]</value>
-      <webElementGuid>a1b3968e-9dd1-4651-9823-1589668f187d</webElementGuid>
+      <webElementGuid>192871db-2e44-4a99-a05e-ff12f936c783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration Form Designer'])[1]/preceding::div[2]</value>
-      <webElementGuid>20e84fcc-6beb-47e2-836c-56a2217f3d41</webElementGuid>
+      <webElementGuid>5eac49b3-fcd1-49d8-b7da-bc3f303bfc23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Data settings']/parent::*</value>
-      <webElementGuid>5882fe53-4908-4f70-b1b9-3331f4084dff</webElementGuid>
+      <webElementGuid>5ff02eab-4990-4c11-9073-3fd79351c26f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>0023dd94-e93e-4c20-86a6-e1faf0d4108e</webElementGuid>
+      <webElementGuid>804b0659-bab4-4dc6-bece-bd686c75ad92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Data settings' or . = 'Data settings')]</value>
-      <webElementGuid>26eb1875-b328-4d5c-8b59-595e164f390d</webElementGuid>
+      <webElementGuid>eb4c81c3-27e6-4fb6-a449-bbccdbd3aad8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
