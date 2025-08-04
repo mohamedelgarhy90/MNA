@@ -6,11 +6,10 @@
    <elementGuidId>8fda369e-f6a9-4e1a-92eb-2fe1874baba9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.penta-form-error > svg > path</value>
+         <key>XPATH</key>
       </entry>
       <entry>
-         <key>XPATH</key>
+         <key>CSS</key>
          <value></value>
       </entry>
    </selectorCollection>
@@ -18,10 +17,10 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=alert >> path</value>
+         <value>internal:role=button[name=&quot;Plugin Settings Designer Edit Collapse&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>6d2341d5-9bca-4658-adb1-cfaf923f1b84</webElementGuid>
+      <webElementGuid>6efee20c-f2b5-475a-a4f9-838e42b46207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,8 +51,8 @@
       <matchCondition>equals</matchCondition>
       <name>d</name>
       <type>Main</type>
-      <value>M20 10.6118C20 16.1346 15.5228 20.6118 10 20.6118C4.47715 20.6118 0 16.1346 0 10.6118C0 5.08897 4.47715 0.611816 10 0.611816C15.5228 0.611816 20 5.08897 20 10.6118ZM11 6.61182C11 7.1641 10.5523 7.61182 10 7.61182C9.4477 7.61182 9 7.1641 9 6.61182C9 6.05954 9.4477 5.61182 10 5.61182C10.5523 5.61182 11 6.05954 11 6.61182ZM10 8.61182C9.4477 8.61182 9 9.05952 9 9.61182V14.6118C9 15.1641 9.4477 15.6118 10 15.6118C10.5523 15.6118 11 15.1641 11 14.6118V9.61182C11 9.05952 10.5523 8.61182 10 8.61182Z</value>
-      <webElementGuid>42d1bf68-66d3-4b83-a6c5-5c1e1fba457e</webElementGuid>
+      <value>M19.7561 1.64463C18.8767 0.760996 17.4511 0.760996 16.5717 1.64463L7.64481 10.6149C7.58363 10.6764 7.53946 10.7526 7.51639 10.8362L6.34248 15.0949C6.2942 15.2695 6.34326 15.4565 6.4707 15.5847C6.59833 15.7128 6.78441 15.7621 6.95817 15.7138L11.1963 14.534C11.2795 14.5108 11.3554 14.4664 11.4165 14.4049L20.3433 5.43447C21.2213 4.55026 21.2213 3.11885 20.3433 2.23463L19.7561 1.64463ZM8.73507 10.9417L16.0411 3.60004L18.3973 5.96772L11.0911 13.3094L8.73507 10.9417ZM8.26441 11.8907L10.1469 13.7825L7.54298 14.5074L8.26441 11.8907ZM19.6357 4.72349L19.105 5.25673L16.7486 2.88886L17.2795 2.35562C17.7679 1.8648 18.5599 1.8648 19.0484 2.35562L19.6357 2.94562C20.1234 3.43703 20.1234 4.23227 19.6357 4.72349Z</value>
+      <webElementGuid>57c42bc1-6ddc-484c-8e6b-121bec2b576b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,14 +60,16 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>99c1d27a-a914-4269-9352-4ee787de01b3</webElementGuid>
+      <webElementGuid>ee5a8b17-47b1-47c1-ad31-66e3d218009a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-form-footer&quot;]/div[@class=&quot;penta-form-error&quot;]/svg[1]/path[1]</value>
-      <webElementGuid>4aad7b95-6d5d-404b-a0d0-78f7dd91cd7b</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
+            CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
+            CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_container-header__ROXux&quot;]/div[@class=&quot;d-flex gap-3 align-items-center&quot;]/div[1]/div[@class=&quot;undefined EditIcon_icon__T7GOt&quot;]/div[1]/svg[@class=&quot;injected-svg&quot;]/g[1]/path[2]</value>
+      <webElementGuid>4323444c-c8a6-4e19-b755-7a5437e4f2a6</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

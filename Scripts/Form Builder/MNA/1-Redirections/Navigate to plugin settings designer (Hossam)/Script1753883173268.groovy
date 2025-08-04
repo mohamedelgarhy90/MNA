@@ -19,9 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/e32309e1-559e-41a7-8eee-9820c2a60923/Hossam%20Fb')
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/path'))
 

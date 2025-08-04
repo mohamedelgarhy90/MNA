@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>84919ee3-c4a6-46d7-ba06-06451ec92815</webElementGuid>
+      <webElementGuid>d8d5a63a-e41b-4632-aa6b-50bb18ed05ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>penta-button penta-main-button   save penta-main-button</value>
-      <webElementGuid>8abd6c41-b246-4881-8176-4ce13f495a7a</webElementGuid>
+      <webElementGuid>c2ff7aeb-7a1a-47e1-ab89-8794eba021ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>941f16cf-f53b-4cfa-9b73-fa120bb0ce31</webElementGuid>
+      <webElementGuid>8660f8da-d970-443f-ac41-13872522e266</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;penta-buttons-container&quot;]/button[@class=&quot;penta-button penta-main-button   save penta-main-button&quot;]</value>
-      <webElementGuid>d818a2fd-494d-425a-ac66-74f3dfc24362</webElementGuid>
+      <webElementGuid>dfaccbca-a51c-4c37-8a01-c7209308a006</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[2]/following::button[1]</value>
-      <webElementGuid>7e89e346-ed4e-4e3f-85e7-07ecf9300774</webElementGuid>
+      <webElementGuid>25bbc333-d52c-4e3d-a214-4fb732c102df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[2]/following::button[2]</value>
-      <webElementGuid>0ecaa9e1-0607-4284-81ee-36512ab318b0</webElementGuid>
+      <webElementGuid>21a64f40-65a6-449a-9778-90fbbfd9ab88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Preview'])[2]/preceding::button[1]</value>
-      <webElementGuid>73339291-c752-4adc-9508-1d2a88733059</webElementGuid>
+      <webElementGuid>38ce6743-a2f5-4465-8512-b2ea6a74e684</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Text Field'])[2]/preceding::button[1]</value>
-      <webElementGuid>37f20ab8-6425-4f70-b4a1-b8311f6f5494</webElementGuid>
+      <webElementGuid>cc7424a7-85ca-4d2e-bbb2-2622d81d4557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/div/div[2]/section/aside/div/div[2]/div/div/div[2]/button[2]</value>
-      <webElementGuid>479f6944-c9b8-410f-8188-cbe064b87550</webElementGuid>
+      <webElementGuid>a3769281-397d-4353-b54f-727776e7513a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Submit' or . = 'Submit')]</value>
-      <webElementGuid>81f9b344-e482-486a-b1cd-502e640fe9e9</webElementGuid>
+      <webElementGuid>6f813de3-bb75-4d44-a4a2-595b00cf405f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
