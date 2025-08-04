@@ -20,9 +20,6 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Mahmoud)'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Mahmoud)'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
@@ -37,8 +34,8 @@ WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Reset_penta-button penta-main-button_648841'))
 
-WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/8aafdca0-77d5-4f4e-91de-9a34849899eb/Mahmoud%20Fb')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/span_Number To Words_customNode-module__cus_41691f'), 
     'Mann - Number To Words')
+
+WebUI.closeBrowser()
 

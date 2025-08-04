@@ -24,17 +24,16 @@ WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Set
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_1'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/path'))
 
 WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'), '')
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/div_Number To Words_penta-form-header-conta_dbca87'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Mna Key_penta-editable-textbox-button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/path_Mna Key_Mask'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Plugin Preview/path'), 0)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/div_Mna Key_penta-form-error-description'), 
+    'Mna key is required')
 
 WebUI.closeBrowser()
 
