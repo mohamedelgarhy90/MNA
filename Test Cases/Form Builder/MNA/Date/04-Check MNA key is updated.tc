@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04-Check MNA key is updated</name>
+   <tag>MNA key</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35369ce4-64b6-4bc9-b9fc-95e598f3d628</testCaseGuid>
+</TestCaseEntity>

@@ -17,15 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_My Contributions'))
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_Plugins'))
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Islam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Plugins/img'))
+WebUI.click(findTestObject('Page_Plugin Preview/edit date'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
+WebUI.verifyElementNotClickable(findTestObject('Object Repository/Page_Plugin Preview/input_Mna Key_mnaKey'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/span_Plugin Settings Designer'), 0)
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Save'))
+
+WebUI.closeBrowser()
 

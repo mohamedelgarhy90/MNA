@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='common-header__button-login']/a</value>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e22aa7b9-f6df-48e3-8611-c38b0e03fb36</webElementGuid>
+      <webElementGuid>e630a2b5-1af0-43e4-9fae-66a515fe9f1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mna-btn-md Header_login-btn__pFNQM</value>
-      <webElementGuid>86fb2f08-e97b-40c0-a797-eded56c23101</webElementGuid>
+      <webElementGuid>245c0e5b-66c0-428f-98d4-2ff74e5758b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/penta-app-admin-entry-point-fb/MnA-fb/signin/org?redirectUrl=%2F</value>
-      <webElementGuid>3806087e-3eef-432b-8181-c04d4ef9c261</webElementGuid>
+      <webElementGuid>b003e249-a6e0-4313-a853-04eb68feefc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>3b5dfe81-1a8b-4fad-99bf-9bbe559b4c31</webElementGuid>
+      <webElementGuid>c57a7a14-627f-4326-acd2-644ccd0feb9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;common-header__button-login&quot;)/a[@class=&quot;mna-btn-md Header_login-btn__pFNQM&quot;]</value>
-      <webElementGuid>099bd16d-922e-48fa-897c-7d80b2f7e5a8</webElementGuid>
+      <webElementGuid>a8a2cf38-5a57-4216-b954-a0c10386d6ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='common-header__button-login']/a</value>
-      <webElementGuid>711f327e-8566-41ad-9964-7881c8575793</webElementGuid>
+      <webElementGuid>f138de88-7342-421f-b38a-18031601ea2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>c15e5de6-b5da-47ce-8391-8f1fa6f81c47</webElementGuid>
+      <webElementGuid>853b8bf1-e452-4443-973c-e3d0d2548538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::a[1]</value>
-      <webElementGuid>557230c3-d29c-45ed-b069-4520a4afbfe1</webElementGuid>
+      <webElementGuid>6ca5797e-b65a-4bdc-963b-60679a8b56c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MnA is not optimized for Mobile use and best fit for Desktop view only'])[1]/following::a[1]</value>
-      <webElementGuid>e6dadd52-aada-4687-a5e3-d42bf37f40f3</webElementGuid>
+      <webElementGuid>8b224ff0-ead5-401f-b8f5-e9afef4c2cd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Layers'])[1]/preceding::a[2]</value>
-      <webElementGuid>da616cf5-eeba-4071-b9f3-0cfce977e2d4</webElementGuid>
+      <webElementGuid>a270c5c9-892c-4303-b6bb-641a6d32efaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[2]</value>
-      <webElementGuid>64320a17-0e99-4bcc-99d9-2bdc69763553</webElementGuid>
+      <webElementGuid>94b9a702-0f84-4f4a-aabd-facbc662fffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>0d8eddcc-b1de-4256-9828-cff937ff67e7</webElementGuid>
+      <webElementGuid>7a5d93b5-9f40-4955-94d7-2f63f8d481e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/penta-app-admin-entry-point-fb/MnA-fb/signin/org?redirectUrl=%2F')]</value>
-      <webElementGuid>7c3a8015-0fa4-4d17-b732-fc51ed4d1eb8</webElementGuid>
+      <webElementGuid>fcc1a90b-776f-4bb2-adee-3d08744f2784</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>3011542f-0b10-469e-9ebf-d46eb8199245</webElementGuid>
+      <webElementGuid>9e4d149f-6b8e-458e-aba0-3595c963775a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/penta-app-admin-entry-point-fb/MnA-fb/signin/org?redirectUrl=%2F' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>435c0309-6406-4946-a5c0-7937f6e3fb0d</webElementGuid>
+      <webElementGuid>dfd418df-9010-4fdc-8d56-ab40ccac9816</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

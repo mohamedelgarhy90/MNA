@@ -17,11 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/Page_Home/a_My Contributions'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home/a_Plugins'))
+WebUI.click(findTestObject('Page_Product Selector/HH smart selector/Page_Plugins/Page_Plugins/a_Plugins'))
 
-WebUI.click(findTestObject('Object Repository/Page_Plugins/img'))
+WebUI.click(findTestObject('Page_Product Selector/HH smart selector/Page_Plugins/a_Hossam Fb'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Plugin Preview/div_Data settings'), 0)
 

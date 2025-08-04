@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Check label</name>
-   <tag></tag>
+   <name>01-Check that MNA key is dimmed</name>
+   <tag>MNA key</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7c81efa1-2d3a-4671-832e-02b005535a17</testCaseGuid>
+   <testCaseGuid>d9bc1faf-74f6-4b76-b16f-1bcc3d0db015</testCaseGuid>
 </TestCaseEntity>
