@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.row > div > div.Configurator_configurator-container__6SRJm > div > div.Configurator_nested-tabs__OaaCo > div > div.Configurator_overlay-container__wTRRa > section.layout-module__layout--X_ghC > aside.layout-module__layout__controller--DWU0n.layout-module__global-styles--QBg5e > div.container-module__container--s5FMn.container-module__container--column--_uXCG.controller-module__controller--V_jZ4 > div.container-module__container__body--ocDRC.controller-module__controller__body--ryb2H > div.controllerBody-module__controller-body--RJ39V > div.settings-form.form-builder-wrapper > div.undefined.penta-group-row.penta-form.penta-smart-forms > div.penta-form-item > div.penta-editable-textbox-container.disabled > button.penta-editable-textbox-button > svg</value>
+         <value>div.row > div > div.Configurator_configurator-container__6SRJm > div > div.Configurator_nested-tabs__OaaCo > div > div.Configurator_overlay-container__wTRRa > section.layout-module__layout--X_ghC > aside.layout-module__layout__controller--DWU0n.layout-module__global-styles--QBg5e > div.container-module__container--s5FMn.container-module__container--column--_uXCG.controller-module__controller--V_jZ4 > div.container-module__container__body--ocDRC.controller-module__controller__body--ryb2H > div.controllerBody-module__controller-body--RJ39V > div.settings-form.form-builder-wrapper > div.undefined.penta-group-row.penta-form.penta-smart-forms > div.penta-form-item > div.penta-editable-textbox-container > button.penta-editable-textbox-button > svg</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>97c3ed95-530a-4ce5-8d3a-dc93b2f97201</webElementGuid>
+      <webElementGuid>a4fd1199-e892-4640-b8db-f1a1970c272d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>viewBox</name>
       <type>Main</type>
-      <value>0 0 15 14</value>
-      <webElementGuid>bd094d63-882d-46eb-ad1b-e8c640bbbd78</webElementGuid>
+      <value>0 0 512 512</value>
+      <webElementGuid>bf14c84f-9b50-45fc-bc37-ed5c85f4fbf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>15</value>
-      <webElementGuid>06dc8590-9e1a-442f-a771-6a0945edb680</webElementGuid>
+      <value>20</value>
+      <webElementGuid>e0d37c5e-ee1f-4d68-a2b2-35e5c7b93194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>heigh</name>
       <type>Main</type>
       <value>14</value>
-      <webElementGuid>92dfad48-0c23-4f06-ba8b-4e98e7b56158</webElementGuid>
+      <webElementGuid>62f1dc21-a56c-4d5a-afb3-f8c6f23bf11b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-editable-textbox-container disabled&quot;]/button[@class=&quot;penta-editable-textbox-button&quot;]/svg[1]</value>
-      <webElementGuid>20348dcd-0d54-477e-aebb-b481a174f68b</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-editable-textbox-container&quot;]/button[@class=&quot;penta-editable-textbox-button&quot;]/svg[1]</value>
+      <webElementGuid>e4068470-f40c-42eb-8eb2-80fbc35116db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>version</name>
       <type>Main</type>
       <value>1.1</value>
-      <webElementGuid>da514ff3-4941-42e0-8810-5d5c07252d2a</webElementGuid>
+      <webElementGuid>36dbc379-7c4e-4bef-bbde-9e619249a900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>03f07bb2-c363-4cab-9af6-70b41e0ec0cd</webElementGuid>
+      <webElementGuid>c19aa2ea-f1d6-426c-9ada-12ce589f7d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xmlns:xlink</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xlink</value>
-      <webElementGuid>47edeb93-41cd-4bdc-a2a0-6d37fad20c42</webElementGuid>
+      <webElementGuid>3aecb2f2-6289-4dfa-a651-b5dfd8910a8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>#0896D4</value>
-      <webElementGuid>f9c5093d-0a3e-4a17-a16e-dd8fbbd656c8</webElementGuid>
+      <webElementGuid>ed77ee9a-5895-4bcd-b96d-0b914bf1cff4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>height</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>cca91ad8-2180-4520-9b26-31817be833f8</webElementGuid>
+      <webElementGuid>06cd49a3-f8ac-4c38-8788-dbf48d78cad6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mna Key'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>9b1184c7-67d8-47af-8927-3f3616e94a3a</webElementGuid>
+      <webElementGuid>b6362812-185b-4a7d-8462-38d4a02da05e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Number To Words'])[4]/following::*[name()='svg'][4]</value>
-      <webElementGuid>155ea75a-348f-4522-9bbf-793dbd7fea5b</webElementGuid>
+      <webElementGuid>6a4bb706-2555-4aed-ac21-70e0a628f24c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Class Name'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>1f68f418-31b7-40b7-80d2-c40d86ae90f8</webElementGuid>
+      <webElementGuid>0abe1384-0198-4b85-b337-3dd9f185fa0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Label'])[4]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>a82db223-3d91-40b2-b0c6-61bd30153414</webElementGuid>
+      <webElementGuid>9bff35e2-f9bf-4578-806f-3164db849934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mna Key'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>730d3b83-6a9d-44f6-af79-8d3914a6d04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number To Words'])[4]/following::*[name()='svg'][5]</value>
+      <webElementGuid>f06b76ea-c68e-43b0-ada5-c7403ba5c27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mna key is required'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>3d2de936-0310-4769-b94f-536f09842d6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

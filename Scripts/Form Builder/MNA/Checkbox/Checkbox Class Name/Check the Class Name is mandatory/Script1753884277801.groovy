@@ -17,3 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Data settingsBehavior settingsConfigura_ac5d1f'))
+
+WebUI.setText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Class Name_classname'), '')
+
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Data settingsBehavior settings'))
+
+WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Submit'))
+
+not_run: WebUI.verifyElementText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Class Name_classname'), 
+    '')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'), 0)
+

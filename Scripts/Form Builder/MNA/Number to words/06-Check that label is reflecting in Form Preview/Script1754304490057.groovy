@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Mahmoud)'), [:], 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Label_label'), 'The label is here...')
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Reset_penta-button penta-main-button_648841'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Plugin Preview/label_this is the label_fb-field-label'), 
+    'The label is here...')
+
+WebUI.closeBrowser()
+

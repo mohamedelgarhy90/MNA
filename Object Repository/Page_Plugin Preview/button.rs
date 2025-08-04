@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>37c35fe6-ae12-4776-bebe-1636fb5fd26e</webElementGuid>
+      <webElementGuid>0341f86d-2f9c-4c37-9db6-b0f3e5f5a4c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>0f617ad5-7fc2-4a91-a0c0-1e3ebb172b01</webElementGuid>
+      <webElementGuid>47b07737-68de-453e-af28-f2f9e3684687</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ltr&quot;]/div[@class=&quot;penta-editable-textbox-warning-modal-overlay&quot;]/div[@class=&quot;penta-editable-textbox-warning-modal-dialog&quot;]/div[@class=&quot;penta-editable-textbox-warning-modal-footer&quot;]/button[1]</value>
-      <webElementGuid>389d5778-73a9-4610-9276-3460efe9d2d4</webElementGuid>
+      <webElementGuid>65d2a6de-7c98-49d6-a5fb-277bd5037096</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/following::button[1]</value>
-      <webElementGuid>5c3679f3-4038-435f-9ee8-d1d4515b5235</webElementGuid>
+      <webElementGuid>1ba54dbe-1be7-40f8-955d-7791e75aa865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[1]</value>
-      <webElementGuid>3375b578-72a8-4ca2-9281-e1417c48ce94</webElementGuid>
+      <webElementGuid>68cc9dd0-ba75-4d08-8cfb-d552df27cafe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>2d6dded8-f7a7-4a27-b79e-40bc2c1fdc50</webElementGuid>
+      <webElementGuid>cc9a57bf-6e55-4f32-aefb-af25235acd33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>c9da2124-0db6-496d-816e-dc093c3f2334</webElementGuid>
+      <webElementGuid>a31bd324-e8df-49fd-94cf-2c57616eae9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>b942c063-d770-49d5-9e16-e7fb3d52ee0b</webElementGuid>
+      <webElementGuid>1c17ec7a-bfdd-4c2b-933a-5a798917025b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

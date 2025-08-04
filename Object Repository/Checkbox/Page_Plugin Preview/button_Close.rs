@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Confirm</name>
+   <name>button_Close</name>
    <tag></tag>
-   <elementGuidId>bd656af2-5fc1-4da3-b942-19324f0547b3</elementGuidId>
+   <elementGuidId>76bed017-fdf9-487b-992b-8dc0dae05f14</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.penta-editable-textbox-warning-modal-footer > button</value>
+         <value>button.settingsForm-module__validation-modal__button--wltEs</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate Key Detected'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Confirm&quot;i]</value>
+         <value>internal:role=button[name=&quot;Close&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a09e68c6-cf94-4b7d-8cd8-937936d04586</webElementGuid>
+      <webElementGuid>7b477237-05ec-4267-a261-9989235f182f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>settingsForm-module__validation-modal__button--wltEs</value>
+      <webElementGuid>039ff2e2-5796-4e89-80cb-616868776093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Confirm</value>
-      <webElementGuid>103d2302-bfa7-4dcd-9a86-645c8335434c</webElementGuid>
+      <value>Close</value>
+      <webElementGuid>a5235286-c8d9-414a-bc26-31e9901bf81c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[@class=&quot;penta-editable-textbox-warning-modal-overlay&quot;]/div[@class=&quot;penta-editable-textbox-warning-modal-dialog&quot;]/div[@class=&quot;penta-editable-textbox-warning-modal-footer&quot;]/button[1]</value>
-      <webElementGuid>8abfc2a2-ef62-4e08-b94d-e3f60c9700e5</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[@class=&quot;modal-module__modal-overlay--mtSpQ&quot;]/div[@class=&quot;modal-module__modal-dialog--uYXHD&quot;]/div[@class=&quot;modal-module__modal-footer--M9Jq3&quot;]/button[@class=&quot;settingsForm-module__validation-modal__button--wltEs&quot;]</value>
+      <webElementGuid>7b55f60f-55dd-4ff0-872c-b6a8832af71a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/following::button[1]</value>
-      <webElementGuid>ce047954-3af5-4bcb-8cc0-f9b5107093d8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate Key Detected'])[1]/following::button[1]</value>
+      <webElementGuid>b8f70f75-7a74-4989-b5e4-0774ed4e731f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,15 +69,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[1]</value>
-      <webElementGuid>454adc87-f0ae-41fb-9f54-d28ba32397f4</webElementGuid>
+      <webElementGuid>d6c0a4ad-d10e-496d-9da9-6b70570ca93c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>1a992b1a-a537-4ed0-9bd1-7937e3e4f85d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>9247dd23-b773-4f08-8837-89811e9de75e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,14 +85,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>63947e82-adb9-4b92-90ef-7737b87a41c3</webElementGuid>
+      <webElementGuid>118acb2b-5524-41c7-86d1-faef07652067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>140cd159-bcd5-480a-9f64-42622807aa13</webElementGuid>
+      <value>//button[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>9389d967-b83b-4d99-9a8c-0b7561ad0973</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

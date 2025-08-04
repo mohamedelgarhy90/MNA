@@ -35,7 +35,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>4e30119e-b686-4f15-bf58-de67b9cf5653</webElementGuid>
+      <webElementGuid>733dc593-bc2d-4ca1-9baa-882205dbd802</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>a2dbf73f-772f-4405-b8d2-043defa21dc7</webElementGuid>
+      <webElementGuid>11284d5f-ace9-4670-b7d3-fa855afdd71a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>width</name>
       <type>Main</type>
       <value>21</value>
-      <webElementGuid>b52cb22e-d144-4a27-b78e-21d3a128d58f</webElementGuid>
+      <webElementGuid>f60e214a-ad2d-471f-80b2-1c2ab73752b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>height</name>
       <type>Main</type>
       <value>22</value>
-      <webElementGuid>e42fa605-8cdc-4a4c-aa18-423246d1ae40</webElementGuid>
+      <webElementGuid>52d58dec-5b8e-407a-af98-7dd478f3ad22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 21 22</value>
-      <webElementGuid>a161f9a9-c489-4c33-b2a9-47fd79d78035</webElementGuid>
+      <webElementGuid>55bda69f-74e6-44d8-a472-141476ab0e64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>3dd24467-a62a-4f79-80ca-09ada52629e9</webElementGuid>
+      <webElementGuid>7b25ffb8-5484-4f21-8c8d-a931ae4827b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>class</name>
       <type>Main</type>
       <value>injected-svg</value>
-      <webElementGuid>98597f17-8afa-4bf2-bd21-32d47581efa7</webElementGuid>
+      <webElementGuid>392773b9-1046-4f78-9317-db1c75e61f7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>data-src</name>
       <type>Main</type>
       <value>/penta-app-admin-entry-point-fb/static/media/ModifyIcon.e7d211cf4c88892cd6099bbed1293a06.svg</value>
-      <webElementGuid>1d026089-7426-444e-91ba-01901dc0fdf3</webElementGuid>
+      <webElementGuid>6a90b524-7f85-4ca5-bd62-9a3d23785561</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xmlns:xlink</name>
       <type>Main</type>
       <value>http://www.w3.org/1999/xlink</value>
-      <webElementGuid>bc886e0e-1f88-4b1b-aeb9-17e5ded9bca8</webElementGuid>
+      <webElementGuid>e6d63ad1-1380-4b1f-8d13-705784d1c59d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>18fa71d6-d89d-47e0-9218-4c87c2af12e8</webElementGuid>
+      <webElementGuid>0e1ec78f-f31c-4731-a609-33c5c416e700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <value>id(&quot;root&quot;)/div[@class=&quot;App d-flex flex-column&quot;]/div[@class=&quot;container IngredientPageContainer_page-container__VBheM&quot;]/div[@class=&quot;mt-4 container-fluid px-0&quot;]/div[@class=&quot;row gap-4 gap-lg-0&quot;]/div[@class=&quot;PluginDetailsPreview_collapsible-container-gap__4hsqt col-12 col-lg-8&quot;]/div[@class=&quot;CollapsibleContainer_collapsibleDivContainer__Ni-Y0
             CollapsibleContainer_collapsibleDivContainerDefault__Y+-N7
             CollapsibleContainer_disabled-inputs__nHSet&quot;]/div[@class=&quot;CollapsibleContainer_container-header__ROXux&quot;]/div[@class=&quot;d-flex gap-3 align-items-center&quot;]/div[1]/div[@class=&quot;undefined EditIcon_icon__T7GOt&quot;]/div[1]/svg[@class=&quot;injected-svg&quot;]</value>
-      <webElementGuid>deb62d17-0747-4641-bebf-3529ddeb640b</webElementGuid>
+      <webElementGuid>803c1a37-8982-4c37-add3-a5e5856e7bb9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Plugin Settings Designer'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>0a386d4b-4c13-4757-9fd2-406a6744c86a</webElementGuid>
+      <webElementGuid>6381d24f-8786-47c9-87a5-6da1ad0ed5a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Notes'])[3]/following::*[name()='svg'][1]</value>
-      <webElementGuid>4aa82950-63bd-45d7-a0f8-7b71e375316f</webElementGuid>
+      <webElementGuid>502f30b9-a648-46a9-b155-19452c864173</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data settings'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>8156110e-7598-4f3a-b75c-a53181316a32</webElementGuid>
+      <webElementGuid>b9bdd8e7-34e0-4219-9a26-0cddacf6e580</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Behavior settings'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>b22a2600-4c9a-4ae4-96bd-b10a60120482</webElementGuid>
+      <webElementGuid>ea76d408-dec6-4f6b-830a-a533d5ab658b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

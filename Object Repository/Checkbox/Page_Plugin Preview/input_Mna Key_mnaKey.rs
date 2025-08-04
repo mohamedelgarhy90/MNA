@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.row > div > div.Configurator_configurator-container__6SRJm > div > div.Configurator_nested-tabs__OaaCo > div > div.Configurator_overlay-container__wTRRa > section.layout-module__layout--X_ghC > aside.layout-module__layout__controller--DWU0n.layout-module__global-styles--QBg5e > div.container-module__container--s5FMn.container-module__container--column--_uXCG.controller-module__controller--V_jZ4 > div.container-module__container__body--ocDRC.controller-module__controller__body--ryb2H > div.controllerBody-module__controller-body--RJ39V > div.settings-form.form-builder-wrapper > div.undefined.penta-group-row.penta-form.penta-smart-forms > div.penta-form-item > div.penta-editable-textbox-container.disabled > #mnaKey</value>
+         <value>div.row > div > div.Configurator_configurator-container__6SRJm > div > div.Configurator_nested-tabs__OaaCo > div > div.Configurator_overlay-container__wTRRa > section.layout-module__layout--X_ghC > aside.layout-module__layout__controller--DWU0n.layout-module__global-styles--QBg5e > div.container-module__container--s5FMn.container-module__container--column--_uXCG.controller-module__controller--V_jZ4 > div.container-module__container__body--ocDRC.controller-module__controller__body--ryb2H > div.controllerBody-module__controller-body--RJ39V > div.settings-form.form-builder-wrapper > div.undefined.penta-group-row.penta-form.penta-smart-forms > div.penta-form-item > div.penta-editable-textbox-container > #mnaKey</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ffc7301b-03fb-4448-a424-4594e39ecfa5</webElementGuid>
+      <webElementGuid>c65937da-a5e6-4817-b351-23d9c1f27a0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0ecb1991-bd47-4f54-9257-88b4b8c4c928</webElementGuid>
+      <webElementGuid>15bdc3d3-0678-4085-99dc-a55a173c5cef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>penta-editable-textbox</value>
-      <webElementGuid>9f3677b3-cf0a-4fc2-a3fa-beec0526b3d3</webElementGuid>
+      <webElementGuid>38d66bff-0246-4b4e-8261-703bc59a9d5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mnaKey</value>
-      <webElementGuid>f1c53f6a-6e65-4b58-9d6d-a8366a0da889</webElementGuid>
+      <webElementGuid>03099ef7-75bd-4df3-b96f-6001c0237915</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mnaKey</value>
-      <webElementGuid>a8a180da-f64f-4297-9f76-fdce50f9b06d</webElementGuid>
+      <webElementGuid>acdd2dfe-92db-4d7a-a9ed-f07b861e902f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>e9575836-658a-4469-ad56-692d7fb46ef2</webElementGuid>
+      <webElementGuid>d14eb9b3-bde6-4280-b420-ca87703f806e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,15 +77,15 @@
       <name>value</name>
       <type>Main</type>
       <value>check1</value>
-      <webElementGuid>0b662a6a-786d-4bf8-81c2-e361f27ba757</webElementGuid>
+      <webElementGuid>53ff0387-1d95-402e-bc5e-c62428ff1897</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-editable-textbox-container disabled&quot;]/input[@id=&quot;mnaKey&quot;]</value>
-      <webElementGuid>43f77019-f255-4fdd-a52f-75fa65b9e452</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[2]/div[@class=&quot;modal-dialog modal-dialog-centered mx-auto PluginConfiguratorModal_configurator-modal__pHbBU&quot;]/div[@class=&quot;modal-content Modal_modal__rPrIC&quot;]/div[@class=&quot;modal-body Modal_modal-body__GZVHS&quot;]/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;Configurator_configurator-container__6SRJm&quot;]/div[1]/div[@class=&quot;Configurator_nested-tabs__OaaCo&quot;]/div[1]/div[@class=&quot;Configurator_overlay-container__wTRRa&quot;]/section[@class=&quot;layout-module__layout--X_ghC&quot;]/aside[@class=&quot;layout-module__layout__controller--DWU0n layout-module__global-styles--QBg5e&quot;]/div[@class=&quot;container-module__container--s5FMn container-module__container--column--_uXCG controller-module__controller--V_jZ4&quot;]/div[@class=&quot;container-module__container__body--ocDRC controller-module__controller__body--ryb2H&quot;]/div[@class=&quot;controllerBody-module__controller-body--RJ39V&quot;]/div[@class=&quot;settings-form  form-builder-wrapper&quot;]/div[@class=&quot;undefined penta-group-row penta-form penta-smart-forms&quot;]/div[@class=&quot;penta-form-item&quot;]/div[@class=&quot;penta-editable-textbox-container&quot;]/input[@id=&quot;mnaKey&quot;]</value>
+      <webElementGuid>7fc57b64-5aae-4ed0-876b-753b04af8d8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='mnaKey'])[2]</value>
-      <webElementGuid>1ab5a9b4-d29f-4891-a1eb-5b2e2b11494d</webElementGuid>
+      <webElementGuid>e8f2835b-ad8c-4af7-a9ca-3ea04584c071</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/div/div[2]/section/aside/div/div[2]/div/div/div/div/div[2]/input</value>
-      <webElementGuid>eabc6c9f-b87d-4d49-a566-8db5dfbef81f</webElementGuid>
+      <webElementGuid>d0aeaac1-0a04-4385-ba1a-be04d6699af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'mnaKey' and @name = 'mnaKey']</value>
-      <webElementGuid>62321ba1-19c4-4dcf-83a7-ee81921da160</webElementGuid>
+      <webElementGuid>1d83ae10-b793-46c2-bd3f-fa2c16ad6514</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

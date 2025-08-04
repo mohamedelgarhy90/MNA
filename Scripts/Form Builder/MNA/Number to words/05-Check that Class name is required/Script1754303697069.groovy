@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Mahmoud)'), [:], 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg_Plugin Settings Designer_injected-svg'))
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/svg'))
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/path'))
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Plugin Preview/input_Class Name_classname'), '')
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/p'))
+
+WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Reset_penta-button penta-main-button_648841'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Plugin Preview/path'), 0)
+
+WebUI.closeBrowser()
+
