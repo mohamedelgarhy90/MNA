@@ -23,15 +23,13 @@ WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point-f
 
 WebUI.click(findTestObject('Object Repository/Page_Home/a_English_mna-btn-md Header_login-btn__pFNQM'))
 
-WebUI.setText(findTestObject('null'), 'red')
+WebUI.setText(findTestObject('Page_Sign In/input_Organization Name_login-form__input-org-name'), 'red')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Page_Sign In/button_Organization Name_login-form__button-login'))
 
-WebUI.setText(findTestObject('null'), 
-    'red')
+WebUI.setText(findTestObject('Page_Sign in to red/input_Username  Email_login-form__input-username'), 'red')
 
-WebUI.setEncryptedText(findTestObject('null'), 
-    '/Y8+3bfpxpw=')
+WebUI.setEncryptedText(findTestObject('Page_Sign in to red/input_Password_login-form__input-password'), '/Y8+3bfpxpw=')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Page_Sign in to red/input_Forgot Password_login-form__button-login'))
 
