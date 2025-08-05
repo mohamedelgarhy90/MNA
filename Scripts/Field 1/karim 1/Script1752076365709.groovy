@@ -25,5 +25,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Google/svg'), 
 
 WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_-  Google/span_'), 0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 

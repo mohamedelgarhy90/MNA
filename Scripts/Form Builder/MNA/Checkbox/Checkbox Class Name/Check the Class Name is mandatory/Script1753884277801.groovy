@@ -21,18 +21,18 @@ WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], F
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Data settingsBehavior settingsConfigura_ac5d1f'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Class Name_classname'), '')
+WebUI.setText(findTestObject('null'), '')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Data settingsBehavior settings'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Submit'))
+WebUI.click(findTestObject('null'))
 
-not_run: WebUI.verifyElementText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Class Name_classname'), 
+not_run: WebUI.verifyElementText(findTestObject('null'), 
     '')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'), 0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 

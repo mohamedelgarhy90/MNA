@@ -21,30 +21,30 @@ WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], F
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Confirm'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'), 'Text_1')
+WebUI.setText(findTestObject('null'), 'Text_1')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Mna Key_penta-editable-textbox-button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Submit'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/h2_Duplicate Key Detected'), 0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 
-WebUI.rightClick(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/p_A field with this MNA key already exists._29583e'))
+WebUI.rightClick(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/p_A field with this MNA key already exists._29583e'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'A field with this MNA key already exists. Please use a unique key.')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Close'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 

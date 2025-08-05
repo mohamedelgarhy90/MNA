@@ -21,23 +21,23 @@ WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], F
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'))
+WebUI.verifyElementNotClickable(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Confirm'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Data settingsBehavior settingsConfigura_ac5d1f'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'), '')
+WebUI.setText(findTestObject('null'), '')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Class Name'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Mna Key_penta-editable-textbox-button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/path'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('null'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/div_Mna key is required'), 0)
+WebUI.verifyElementPresent(findTestObject('null'), 0)
 

@@ -27,15 +27,15 @@ WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point/B
 
 WebUI.click(findTestObject('Object Repository/Page_Home/a_Sign In'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'), 'red')
+WebUI.setText(findTestObject('null'), 'red')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign In'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to red/input_Username  Email_username'), 'red')
+WebUI.setText(findTestObject('null'), 'red')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to red/input_Password_password'), '/Y8+3bfpxpw=')
+WebUI.setEncryptedText(findTestObject('null'), '/Y8+3bfpxpw=')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in to red/input_Forgot Password_login'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Page_Home/a_Projects Management'))
 

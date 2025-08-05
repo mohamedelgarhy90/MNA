@@ -36,5 +36,3 @@ WebUI.click(findTestObject('Object Repository/Page_Plugin Preview/button_Reset_p
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Plugin Preview/path'), 0)
 
-WebUI.closeBrowser()
-

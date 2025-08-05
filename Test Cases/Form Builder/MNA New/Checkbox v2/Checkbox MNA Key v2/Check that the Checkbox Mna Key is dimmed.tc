@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check that the Checkbox Mna Key is dimmed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67984ec2-16ba-43f6-a699-f70066ddcde5</testCaseGuid>
+</TestCaseEntity>

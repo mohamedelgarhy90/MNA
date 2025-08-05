@@ -23,11 +23,11 @@ WebUI.setText(findTestObject('Object Repository/Page_bee-flow/input__selectedOrg
 
 WebUI.click(findTestObject('Object Repository/Page_bee-flow/input__login-button'))
 
-WebUI.setText(findTestObject('Object Repository/Page_red/input__username'), 'tester1')
+WebUI.setText(findTestObject('null'), 'tester1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_red/input__password'), 'r98I3Krbh9FyLvOoVhuYpw==')
+WebUI.setEncryptedText(findTestObject('null'), 'r98I3Krbh9FyLvOoVhuYpw==')
 
-WebUI.click(findTestObject('Object Repository/Page_red/input__login'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Page_bee-flow/input__login-button'))
 

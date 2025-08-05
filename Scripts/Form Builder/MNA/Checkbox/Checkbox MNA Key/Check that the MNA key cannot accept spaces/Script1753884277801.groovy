@@ -21,31 +21,31 @@ WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], F
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Confirm'))
+WebUI.click(findTestObject('null'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'))
+WebUI.doubleClick(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'), 'q w e r t')
+WebUI.setText(findTestObject('null'), 'q w e r t')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Mna Key_penta-editable-textbox-button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Confirm'))
+WebUI.click(findTestObject('null'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'), FailureHandling.STOP_ON_FAILURE)
+WebUI.doubleClick(findTestObject('null'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'), 'qwert')
+WebUI.verifyElementText(findTestObject('null'), 'qwert')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Mna Key_penta-editable-textbox-button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/button_Confirm'))
+WebUI.click(findTestObject('null'))
 

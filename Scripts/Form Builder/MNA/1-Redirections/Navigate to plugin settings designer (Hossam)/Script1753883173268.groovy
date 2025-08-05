@@ -17,7 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.navigateToUrl('https://devstable.penta-b.net/penta-app-admin-entry-point-fb/MnA-fb/PluginPreview/e32309e1-559e-41a7-8eee-9820c2a60923/Hossam%20Fb')
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/path'))
+not_run: WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
 

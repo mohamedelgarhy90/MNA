@@ -29,13 +29,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Home/a_Sign In'),
 
 WebUI.click(findTestObject('Object Repository/Page_Home/a_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Sign In/input_Organization Name_login-form__input-org-name'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Sign In/span_Sign In'))
+WebUI.verifyElementClickable(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign In'))
+WebUI.click(findTestObject('null'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Sign In/span_This input is required'))
 

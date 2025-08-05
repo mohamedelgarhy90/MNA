@@ -9,13 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.2.4</modifiedVersion>
+   <modifiedVersion>10.3.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
-   <projectFileLocation>C:\Users\iBlue\git\MNA\Test.prj</projectFileLocation>
-=======
    <projectFileLocation>C:\Users\penta\git\MNA\Test.prj</projectFileLocation>
->>>>>>> branch 'master' of https://github.com/mohamedelgarhy90/MNA.git
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

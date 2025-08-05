@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Login'), [:], F
 
 WebUI.callTestCase(findTestCase('Form Builder/MNA/1-Redirections/Navigate to plugin settings designer (Hossam)'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/Checkbox/Page_Plugin Preview/input_Mna Key_mnaKey'))
+WebUI.verifyElementNotClickable(findTestObject('null'))
 
